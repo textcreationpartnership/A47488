@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catastrophe Galliæ, &amp; Hiberniæ restitutio an impartial judgement, denoting the reduction of Ireland. This revolution, 90. ending March the 10th 1691. Also the conquering of proud Lewis, and abasing France. By Their present Majesties William and Mary, King and Queen of England, Defenders of the Faith, &amp;c. Prophetically deduced from the characters of heaven. Also the planets attributes, according to the doctrine of Hermes. With a philosophical discourse of the four elements, and powerful influences of the heavenly bodies. Likewise, a modest defence of prophecy, demonstrated from the ten sybils, and of their wonderful prophecies of our Blessed Saviour, long before his birth. To which is added, Scutica Gadburiana, or, a whip for that scorpion Gadbury. By Richard Kirby, philo astrologus &amp; medicus.</title>
+            <author>Kirby, Richard, b. 1649.</author>
+         </titleStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47488</idno><idno type="EEBO-CITATION">99835120</idno>
+  <idno type="VID">39779</idno>
+  <idno type="EEBO-PROQUEST">2264180223</idno>
+  
+            <idno type="STC">Wing K619</idno>
+            <idno type="STC">ESTC R218596</idno>
+            <idno type="PROQUEST">99835120</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99835120e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39779)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2033:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Catastrophe Galliæ, &amp; Hiberniæ restitutio an impartial judgement, denoting the reduction of Ireland. This revolution, 90. ending March the 10th 1691. Also the conquering of proud Lewis, and abasing France. By Their present Majesties William and Mary, King and Queen of England, Defenders of the Faith, &amp;c. Prophetically deduced from the characters of heaven. Also the planets attributes, according to the doctrine of Hermes. With a philosophical discourse of the four elements, and powerful influences of the heavenly bodies. Likewise, a modest defence of prophecy, demonstrated from the ten sybils, and of their wonderful prophecies of our Blessed Saviour, long before his birth. To which is added, Scutica Gadburiana, or, a whip for that scorpion Gadbury. By Richard Kirby, philo astrologus &amp; medicus.</title>
+                  <author>Kirby, Richard, b. 1649.</author>
+               </titleStmt>
+               <extent>48 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Howkins, in George-Yard, in Lombard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata at foot of final page.</note>
+                  <note>Imperfect; A3-4 (pp. [5]-[8]) lacking.</note>
+                  <note>Reproduction of original in Trinity College Library, Dublin, Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gadbury, John, 1627-1704 --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1660-1690 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39779:1"/>
+            <p>
+               <hi>Catastrophe Galliae, &amp; Hiberniae Restitutio,</hi> AN Impartial Judgement, Denoting the <hi>Reduction of Ireland,</hi> This Revolution, 90. ending <hi>March</hi> the 10th 1691.</p>
+            <p>ALSO THE Conquering of proud <hi>Lewis,</hi> and Abasing <hi>France.</hi>
+            </p>
+            <p>By Their present Majesties William and Mary, King and Queen of <hi>England,</hi> Defenders of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>Prophetically Deduced From the <hi>Characters of Heaven.</hi>
+            </p>
+            <p>ALSO, The Planets Attributes, according to the Doctrine of <hi>Hermes.</hi> With a Philosophical Discourse of the Four Elements, and Powerful Influences of the Heavenly Bodies. Likewise, a modest Defence of <hi>Prophecy,</hi> demonstrated from the Ten <hi>Sybils,</hi> and of their won<g ref="char:EOLhyphen"/>derful Prophecies of our Blessed Saviour, long before his Birth. To which is added, <hi>Scutica Gadburiana,</hi> or, a Whip for that <hi>Scorpion Gadbury,</hi>
+            </p>
+            <p>By <hi>Richard Kirby, Philo Astrologus &amp; Medicus.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Howkins,</hi> in <hi>George-Yard,</hi> in <hi>Lombard-street,</hi> 1690.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:39779:2"/>
+            <pb facs="tcp:39779:2"/>
+            <head>THE PREFACE TO THE <hi>Vnprejudiced Reader.</hi>
+            </head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Here adventure to present thee with a small piece; Intituled, the <hi>Catastrophe</hi> of <hi>France,</hi> and Reduction of <hi>Ireland,</hi> in Two Parts; In the First, I have endeavoured to prove by plain Demonstration, the powerful Influence (and Operations) of the Sun, Moon, and Stars, on these Inferiour Elements, and Elementary Bodies; and how they were to give Light unto the Earth, on all sides, and to heat it with a various Temparature (that is, neither to burn it, nor leave it de<g ref="char:EOLhyphen"/>stitute of heat.) Secondly, to make a Various Harmony of Times, and to inspire a Various Form into the Creatures: And Lastly, why they were Created in so vast a Number, and to what Ʋse God ordained them; and now from their Conjunctions and Aspects, (which is their Various inter<g ref="char:EOLhyphen"/>mixing one with an other) also, by their Ascending, and Descending, the Firmament, and perpetual rowling round this Globe of Earth, I have deduced Judgement concerning the Affairs of some particular Parts of <hi>Europe</hi> (more especially, <hi>France</hi> and <hi>Ireland:</hi> Also, our thrice happy delivered Kingdom of <hi>England</hi>) and how it will go with them this Re<g ref="char:EOLhyphen"/>volution, hoping it will offend none; and if it doth, I am sure it will be the contrary Parties, therefore I shall be the less concerned.</p>
+            <pb facs="tcp:39779:3"/>
+            <p>In the next place, I have been a little Critical upon Mr. <hi>Gadbury,</hi> con<g ref="char:EOLhyphen"/>cerning his <hi>89</hi>'s Almanack, in shewing him the uncertainty of the <hi>Argo<g ref="char:EOLhyphen"/>lian</hi> and <hi>Regiomoritanian</hi> Rules, in the <hi>Astral</hi> Science, and how there is no truth in any of their ways, only <hi>Hermes</hi> and <hi>Ptolomies,</hi> whose At<g ref="char:EOLhyphen"/>tributes of the Planets, I have inserted, in the Second Part, (but its ve<g ref="char:EOLhyphen"/>ry Mysterious to Dulconcepts) with a Phylosophical Discourse of the Four Elements, the like not extant in the <hi>English</hi> Tongue; I have likewise shew<g ref="char:EOLhyphen"/>ed you the Falacy of the Papist pretended Transubstantiation, it not lying in the Power of Humanity: And Lastly, I have given you an Ac<g ref="char:EOLhyphen"/>count of the ten <hi>Sybils,</hi> and their particular Prophecies, of our bles<g ref="char:EOLhyphen"/>sed Saviour, long before his Birth; also, of two more who spoke notable things which came to pass. Now if Mr. <hi>Gadbury,</hi> or any <hi>Argolian,</hi> or <hi>Regimontanian,</hi> are minded to take up the Cudgels against me, let them know that I will shew them such Demonstrations in <hi>Starry Dialect,</hi> that they will be asham'd to own the Name of <hi>Argol, Regiomontanus,</hi> or any of their Illegitimate Associates (or Pupils) that pretends to the Art of Astrology; not that I do it in any Degradation to Mr. <hi>Gadbury,</hi> or any other, only to assure them, there are more Infallible Rules then ever they were so happy as to be acquainted with, tho I am sure, at the same time, they have met with them, yet knew them no more than the <hi>Cobler</hi> did <hi>Harry Tuder;</hi> and for their further Association with them, they are in the <hi>Marrow of Astrology,</hi> translated from <hi>Placidus,</hi> and writ by Mr. <hi>Bishop</hi> and my self (who took the greatest pains in the doing of it, tho he hath proved so Ʋngrateful to me, as to blot out my Name, claiming the Book as his own (since my absence out of <hi>London</hi>) being the true Do<g ref="char:EOLhyphen"/>ctrine of great <hi>Ptolomy,</hi> whose Works and Name, I Honour and Apploade, requesting all those that are this ways inclin'd, to bear his Name in Me<g ref="char:EOLhyphen"/>mory, to everlasting posterity; and thus I leave you to the Protection of him that made us all, and remain their Majesties Loyal Subject, and my Countries Friend, whilst I am</p>
+            <closer>
+               <signed>Yours, <hi>Richard Kirby</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="9" facs="tcp:39779:3"/>
+            <head>
+               <hi>Catastrophe Galliae, &amp; Hiberniae Restitutio:</hi> OR, An Impartial Judgment on the <hi>Coelestial Motions;</hi> DENOTING A <hi>Signal Conquest</hi> over the Late King <hi>James,</hi> and the <hi>Irish Rebels,</hi> this Revolution in <hi>Ireland.</hi>
+            </head>
+            <div type="introduction">
+               <head>INTRODUCTION.</head>
+               <p>THE All-Powerful GOD never intended either Good or Evil towards the Sons of Men, but He always shew'd his Signs and Tokens in the <hi>Firmament,</hi> of His unalterable Will and Pleasure; witness the Holy Writ, as well as the Writings of the most Ancient and Sage Authors; and it is mani<g ref="char:EOLhyphen"/>fested by All, for an undoubted Truth, That under the Conjunctional Influence of the Two Superiors, <hi>viz. Saturn</hi> and <hi>Jupiter,</hi> in the Fiery Trygon, (which hath been seven times repeated since the Cre<g ref="char:EOLhyphen"/>ation) strange and wonderful Alterations hath happened on this Globe of Earth; and all for the preservation of the Church of God: Instance the Universal Deluge, by the keeping and preserving of <hi>Noah,</hi> and his subjected Animals in the <hi>Ark:</hi> And their last Conjunction was their Sabatical Return, under whose Influence God hath delive<g ref="char:EOLhyphen"/>red His Church and People, by the Coming-in of His Servants, Our Sovereign Lord and Lady, King <hi>William</hi> and Queen <hi>Mary;</hi> whom God grant long to Sway the Scepter in Peace and Unity amongst us.</p>
+               <pb n="10" facs="tcp:39779:4"/>
+               <p>But to avoid Prolixity, and immediately push forward to our in<g ref="char:EOLhyphen"/>tended Subject, I think it convenient to give some probable Con<g ref="char:EOLhyphen"/>jectures upon</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The</hi> Sun<hi>'s Vernal Ingress into</hi> Aries.</head>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <p>
+                     <hi>Figura Mundi:</hi> Or, <hi>Sol</hi> enters <hi>Aries, March</hi> the 10th. 3 Hours, 25 Min. Mane.</p>
+                  <p>☽ a △ ☉, ad ✶ ♂ □ ♄.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>☿</cell>
+                           <cell>a</cell>
+                           <cell>☌</cell>
+                           <cell>☉</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>♀</cell>
+                           <cell>a</cell>
+                           <cell>△</cell>
+                           <cell>♄</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>♃</cell>
+                           <cell>a</cell>
+                           <cell>△</cell>
+                           <cell>♄</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>♂</cell>
+                           <cell>a</cell>
+                           <cell>☌</cell>
+                           <cell>♃</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>☿</cell>
+                           <cell>a</cell>
+                           <cell>☌</cell>
+                           <cell>♀</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>☿</cell>
+                           <cell>a</cell>
+                           <cell>☌</cell>
+                           <cell>♃</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>☿</cell>
+                           <cell>a</cell>
+                           <cell>△</cell>
+                           <cell>♄</cell>
+                           <cell>2</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>
+                     <hi>Saturn</hi> goes to the Mundane Parallel of <hi>Mars,</hi> by the motion of the <hi>Primum Mo<g ref="char:EOLhyphen"/>bile,</hi> from active Parts of <hi>Heaven.</hi>
+                  </p>
+               </figure>
+               <p>NOW, he that looks upon this Figure (only) with the bare glance of an Eye, at the first sight, it may seem to him as a Painted Fire, or the Effigies of a Serpent drawn upon a Wall, which can neither burn nor sting: But if it be seriously viewed, we shall find it a Figure of great consequence; for there are no less than Five of the Seven <hi>Erraticks</hi> subterranean, and Four of them in the 2d. House, and Three beholding <hi>Saturn</hi> in the 9th. by a benevolent Trine. Oh! let the great God of Heaven give a double Portion of His Blessings unto their Effects; for they denote great Counsels now on Foot, and those seriously carried on, for the Glory and
+<pb n="11" facs="tcp:39779:4"/> Grandeur of <hi>England,</hi> and our neighbouring Nations; and that chiefly for the settlement of Affairs, as to the Rights and Privi<g ref="char:EOLhyphen"/>ledges of Church and State; and all to make the hearts and spi<g ref="char:EOLhyphen"/>rits of a disatisfied People easie; and this particularly in our own Nation, where there is the greatest necessity for it, because of the many differences of Opinion, who are often in an uproar, like Sea<g ref="char:EOLhyphen"/>men in a storm. The War-like Planet <hi>Mars,</hi> passeth through the Sign <hi>Gemini, London</hi>'s Ascendant, which, according to Authors, de<g ref="char:EOLhyphen"/>notes the frequent breakings-out of Fire, also Pestilential Diseases, (the which I pray God divert) but since he is in Quadrat of <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> and hasts to a malevolent Square of <hi>Jupiter</hi> and <hi>Saturn,</hi> to his Mun<g ref="char:EOLhyphen"/>dane Parallel, by the motion of the <hi>Primum Mobile,</hi> I rather think he threatens breaking of Houses, Rapines and Murthers; also many discontents amongst the people, as Plotting, Contriving, and striving to raise mutinies and disturbances in the Government, only on pur<g ref="char:EOLhyphen"/>pose for some intended Rebellion; and yet Religion and Conscience is still their pretence. Thus moves mans misguided Orb of Ambition on this swinging Globe; but those black crimes will not be long hid, for about that time as the Sun comes to touch the place of <hi>Mars,</hi> there may be a discovery made of some of their villanous Conspiracies; for at the same time, <hi>Mercury</hi> and <hi>Venus</hi> comes to a Conjunction in <hi>Gemini;</hi> for <hi>Mercury</hi> can keep counsel no longer, but must of necessity reveal it to some Woman: Then let such Rascals know, that an Ax, or a Hempen-string, will be their just reward (or some thing equivalent,) for the Heavens bends down their powerful frowns upon such Vi<g ref="char:EOLhyphen"/>lains, for the very Steeds of Day seem to blush at their Actions. One would have thought, we had clipt the wings of <hi>Rome's</hi> black Tribe ere now, but I know it's impossible to lade the Sea dry (or to pen out the Fresh Rivers;) yet we may endeavour to keep these within the bounds and measure of order; and in so doing, we shall ever be as free from the Curse of Popery, as we are from Arbitrary Goverment. At the end of <hi>April</hi> the Sun toucheth the opposite place of <hi>Saturn,</hi> in this Vernal Figure, at which time you will hear of a great deal of Trea<g ref="char:EOLhyphen"/>chery; also mischevious offences committed amongst the people in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> causing many discontents, frights and fears: But let the <hi>Teagueland</hi>
+                  <pb n="12" facs="tcp:39779:5"/> Rebellious party know, that they most certainly will pay dear for their unheard-of outrages, committed upon those innocent souls; for the opposition of <hi>Saturn</hi> and <hi>Mars,</hi> begins now to operate to purpose; for on the 28th. of <hi>April,</hi> the Sun toucheth the place of <hi>Mars,</hi> at the time of their opposition; therefore now, my hearts of Gold, take Courage, and stand to it; fear not; God's on your sides, and the Stars of Heaven, in their course, fights for you; your Guardian Angels stands by you, with their Swords drawn in their Hands, and will drive the Enemy, like Chaff, before the Wind, and tumble them to and fro, with many rouling fears. There are Four Planets with the Dra<g ref="char:EOLhyphen"/>gons Head in the 2d. in <hi>Trine</hi> to <hi>Saturn,</hi> Lord of the Ascendant, and the Moon defluxes from a <hi>Trine</hi> of the Sun, to a <hi>Sextile</hi> of <hi>Mars,</hi> the God of Battle, and Lord of <hi>England's</hi> Ascendant; all which do promise our Souldiers Moneys &amp; Ammunition, sufficient to oppose those (Idolizing) bold Pretenders; they being the true instruments of War: But let our Enemies know, that they will be necessitated ex<g ref="char:EOLhyphen"/>treamly, though they be proud and haughty; as he that hath but half an Eye may plainly discern, by the application of <hi>Mars</hi> to the male<g ref="char:EOLhyphen"/>volent <hi>Quartile</hi> of <hi>Mercury,</hi> Lord of their House of Substance, who is both in detriment and fall, and also retrograde. And thus let <hi>Ireland</hi> know from me, that they will most certainly be Reduced, ere this years Actions be over; as it doth more evidently appear, by the po<g ref="char:EOLhyphen"/>sition of the Heavenly Bodies, at the Suns Ingress into <hi>Cancer</hi> and <hi>Li<g ref="char:EOLhyphen"/>bra;</hi> which two Figures of Heaven I have consulted, though not here inserted: And so I conclude with these following words;
+<q>
+                     <l>If Fate there be not, what can we foresee;</l>
+                     <l>And how can we avoid it, if there be?</l>
+                     <l>If by Free-will, in our own Sphear, we move,</l>
+                     <l>How are we bounded by Decrees above?</l>
+                     <l>Whether we drive, or whether we are driven,</l>
+                     <l>If bad, they're Ours; if good, the Acts of Heaven:</l>
+                     <l>Thus good and bad's the Fate attends all men,</l>
+                     <l>All things return f<gap reason="illegible: blotted" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m whence they first began.</l>
+                  </q>
+               </p>
+               <p>Thus I have given my probable Conjectures of the Influence of the Heavenly Bodies, from their Position, at the <hi>Sun</hi>'s <hi>Vernal Ingress:</hi> I shall now proceed to present you with some <hi>Philosophical Demonstra<g ref="char:EOLhyphen"/>tions,</hi> of their powerful operating Qualities upon all Sublunaries.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:39779:5"/>
+               <head>Philosophical Demonstrations.</head>
+               <p>IT's well observ'd by <hi>Commenius,</hi> That <hi>Stars</hi> are fiery Globes, full of Light and Heat, with which the Sky glitters on every side; for the Ornament of the World required this, that hanging Lamps should not be wanting in so lofty a Pallace; as also the necessity of the inferior World, concerning which is the following <hi>Aphorism:</hi> Now we reckon Stars in the rank of Concretes, because it is certain they are made of Matter and Light; also they were produced in so vast a number, upon very great necessity, (1.) To heat the Earth with a various Temperature. (2.) To make the various Harmony of Times. (3.) To inspire a various Form into the Creatures; for so great Variety could not be Induced into the lower World, with<g ref="char:EOLhyphen"/>out such Variety in Coelestial Things. For they are Certain, Inde<g ref="char:EOLhyphen"/>terminate, and Universal Causes to Specificks, and Individual Ef<g ref="char:EOLhyphen"/>fects; if so, they are determinated for the Truth, to whom they are visible, and of nearest cause: As the Sun makes Wax soft, Clay hard, a Worm white, the Skin of Man black; with a Man he begets a Man, with a Lyon a Lyon. Then the Stars cannot be Signs of Effect, unless they be the Causes also: For they act according to their Situation and Parallax, upon the Bodies by which they pass; yet they do not act upon Inferiors, according to the true and real Intention, and Extention of the Light, which they have in them<g ref="char:EOLhyphen"/>selves; but only according to their appearing, when they come to those Bodies that are subject unto them.</p>
+               <p>Now, God hath placed the greatest number of Stars in the highest Heaven, round about, that they might eradiate the Earth on every side, and carry about their Sphear with a rapid motion of Heat: Now the Numerable Stars are found by us to be 1022; but the great God knows the number of the Innumerable; therefore as we know but in part, we are (nor ought) not to be positive in our Con<g ref="char:EOLhyphen"/>jectures of their Influences, <hi>&amp;c.</hi> Now, there is a very great por<g ref="char:EOLhyphen"/>tion of most ardent Light conglobated in the <hi>Sun,</hi> so that it may seem the only Fountain of Light and Heat; for were it not for the
+<pb n="14" facs="tcp:39779:6"/> Sun, we should have perpetual Night, notwithstanding the rest of the Stars: For as much as at high Noon, we are presently in Darkness, if the Sun be but covered. Now, as touching the Sun, these following <hi>Axioms</hi> are to be noted; (1) That it was so great, as might suffice both to Illustrate the whole World, and to Heat and Vapourate the whole Earth. (2) That it is such a distance Elevated from the Earth, as might serve, so as neither to burn it, nor leave it destitute of Heat. <hi>Psal.</hi> 19. <hi>v.</hi> 7. And, (3) That it may serve all sides of the Earth with its Light and Heat, to wit, by turns; that Radiation is not made simply through the midst of the World, under the Aequa<g ref="char:EOLhyphen"/>tor; but under the Zodiack, bending to the North on this side, to the South on that side; whence comes the division of the Year into Four Parts, <hi>Spring, Summer, Autumn,</hi> and <hi>Winter.</hi> And because it was not convenient the Sun and Stars should always operate after one and the same manner (for variety is both pleasing and profitable to all Nature) there were six other wandring Stars added over and be<g ref="char:EOLhyphen"/>sides, which running under the same Zodiack, and by certain turns entering into Conjunction and Aspect one with another, and with the <hi>Sun,</hi> might variously temper his Operation upon Inferiour things: These wandering Stars are called <hi>Planets,</hi> of which there are Seven, reckoning the <hi>Sun</hi> for one; the other six Planets therefore are the <hi>Sun</hi>'s Coadjutors in Governing the World, which differ in Sight, Course, Magnitude, Motion, Light. The higher Planets do observe the <hi>Sun;</hi> that approaching nigh unto him, they betake themselves into the highest place, going from the <hi>Sun</hi> they sink lower towards the Earth; and for this cause both their Magnitude and their Mo<g ref="char:EOLhyphen"/>tion vary in our Eyes; for when they are nearer to the Earth, they seem greater, but more remote, less. As for their Light, <hi>Mars</hi> is very Fiery and Calefactive; <hi>Saturn</hi> is Pale, and very Frigifactive; <hi>Jupiter</hi> and <hi>Venus</hi> are of a pleasant Light; <hi>Mercury</hi> changable and Sparkling; and because the <hi>Moon</hi> was to rule the Night, a weak Light, and that but borrowed, was given her; and by reason she was appointed to shew lesser times (as Months,) a Motion different from the <hi>Sun</hi> was given her; that, by her departure from the <hi>Sun,</hi> and other Stars, and by her returning again, she might design the progress of the
+<pb n="15" facs="tcp:39779:6"/> Months, and bring down their good and evil Influence unto We Mortals on Earth; and that it might be done more evidently, she was placed below the <hi>Sun,</hi> that she might appear to us with her Face enlightned after divers manners. Now, God ordained Eclipses also, (1.) That we might understand that our Light is from the Sun; (2.) That the Magnitude of the Luminaries, and of the Earth, might be found out; (3.) To find the true Longitude of Countries: And lastly, To denote Firtility and Stirrility, also Mundane Affairs, as well as by the motion and position of the other wandring Stars, and the appearance of Comets, <hi>&amp;c.</hi> Now, Comets are accessary Stars, which sometimes shine, and go out again, for the most part with Tayls, or Bushes of Hair. We reckon Comets to the Heavens and Stars, not to the Air and Meteors; because they are not generated in Sublunary Places, (as <hi>Aristotle</hi> thought) but in the highest Hea<g ref="char:EOLhyphen"/>ven, even above the Sun: Comets are not Vapours kindled, but a Reflexion of the Sun's Light, in Vapours so far Elevated. The first is easily proved; for if a Comet were a Vapour kindled, it could not last half an Hour. (For nothing can be kindled, but a Sulphureous Matter, and that is consumed in a Moment, as it appears in Gun<g ref="char:EOLhyphen"/>powder, Lightning, a Chasme, or Falling Star, <hi>&amp;c.</hi>) But Histories relate, that Comets have lasted three Years. The Second is shewed, because Comets (First) Cast a Tayl from the Sun, as the Moon doth a shadow (for those dry Vapours are not an opacious Body, like to the Moon, but Semidiaphanous.) Secondly, They are Eclipsed (as <hi>Campanella</hi> testifies) by the shadow of the Earth, as well as the Moon; which would not be, if they burn'd with their own Fire. The ends of Comets are, that it may appear; First, That the whole Heavens moves, not the Stars only. Secondly, That it is Liquid and Transmeable; not hard, like Chrystal. Thirdly, That Vapours ascend so high, and that there are Mutations every where in this visible World. But it is not my Business at this time to dispute that, but as near as may be, by the Permission of the Highest, endeavour to Interpret the Meaning of those Comets and Apparitions, which hath been visibly seen with us since 79; also Conjunctions and As<g ref="char:EOLhyphen"/>pects of the Superiour Stars; likewise Eclipses, to this very Year
+<pb n="16" facs="tcp:39779:7"/> 1690. And, if I thought I should not offend, I would give some pro<g ref="char:EOLhyphen"/>bable Conjectures (at this time) of the present Affairs of some parts of <hi>Europe,</hi> (but more especially of <hi>France</hi> and <hi>Ireland</hi>) and how it will go with them; the which I hope will prejudice no man; and if it doth, it will be the contrary Parties, and therefore I am the less concern'd: For Religion in this Kingdom of <hi>England,</hi> I hope, now will <hi>Flourish like a fruitful Vine, that brings forth her Grapes by Clusters; that it may smell sweet in the Nostrils of the Lord, like the Cedars of</hi> Lebanon. Let us look back to the Year 79, and consider the manifold Mercies the Lord hath been pleased to bestow upon us, and how He hath shewed us Signs and Tokens in the Heavens of His Love, signifying what He would do for us, as well as the Preservation of His Church, if we would but amend our Lives and Ways (that is, in keeping His Command<g ref="char:EOLhyphen"/>ments and Statutes sure;) and if not, how we must expect to incur his heavy Displeasure. First, by His setting up his Prodigious Fiery Beacon tn the Heavens, in the Year 80, in the Sign <hi>Capricorn,</hi> the House of <hi>Saturn,</hi> and Exaltation of <hi>Mars,</hi> extending its Tayl almost 60 Degrees, to the Astonishment of most part of the Christian World: Such a one appeared before the Birth of our <hi>Blessed Saviour,</hi> in <hi>Caesar Augustus</hi> his Reign; at which Time the Sybils were very expert in the Knowledg of the Coelestial Science; for one Sybil, a <hi>Ti<g ref="char:EOLhyphen"/>burnian,</hi> told the Emperor, <hi>It pointed out a Child to be Born of a Vir<g ref="char:EOLhyphen"/>gin, which should be greater than he; therefore she exhorted him to Wor<g ref="char:EOLhyphen"/>ship Him.</hi> And then the Church of God was preserved in the highest degree, as I hope it will be now, <hi>&amp;c.</hi> Secondly. The Triple Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter,</hi> in the Regal Sign <hi>Leo,</hi> part of the Fiery Trygon; besides, the Appearance of a Comet in the said Constellation; also the Conjunction of <hi>Saturn</hi> and <hi>Mars, Jupiter</hi> and <hi>Mars,</hi> and all in the Year 1682. which did much aggravate their Effects: Besides many strange Apparitions, Eclipses, Mock-Suns and Moons, to this very Time: Moreover, the double Square of <hi>Saturn</hi> and <hi>Jupiter,</hi> in 88, and 89; also the Opposition of <hi>Saturn</hi> and <hi>Mars</hi> on the 5th. of <hi>August,</hi> from <hi>Taurus</hi> and <hi>Scorpio;</hi> likewise their Opposition in <hi>September</hi> from the said Constellations. <hi>Taurus</hi> is the Ascendant of <hi>Ireland,</hi> and <hi>Scorpio</hi> is its opposite Sign: All which
+<pb n="17" facs="tcp:39779:7"/> do usually and very frequently point out to Mankind, throughout the whole Macrocosme, many Calamities; as Plague, Pestilence, Blood-shed, Wars, Famine, Depopulation, Alterations of Laws and Priviledges, Change of Government, setting up and pulling down Kings, (sometimes change of Religion) also Inundations, Earth<g ref="char:EOLhyphen"/>quakes, <hi>&amp;c.</hi> stirring up strange Heats and Passions in Men, prompt<g ref="char:EOLhyphen"/>ing them upon slender occasions to destroy each other; and this by their Influences (and the Permission of the Great Creator of all things, to whom all Causes are but Subordinate:) All which generally happens to those Kingdoms and Countries, where those Apparitions are seen; likewise to those places under the Influence of the Signs wherein they appear; also, to those places where they extend their Rays; the same by the Eclipses, and meetings of the Supe<g ref="char:EOLhyphen"/>riour Bodies, whether Corporally or by Aspect; that is, where they cast their Squares or Oppositions, also smq. ssq. or Parallels: But thrice happy are those Nations and People, where they send their favourable and smiling Aspects; for to Them they promise Plenty, much Happiness, and safe Deliverance from Bondage and Captivity, from Tyrannical and Arbitrary Government, <hi>&amp;c.</hi> as this our English Nation hath been very lately freed from: All which the aforesaid Apparitions, and triple Conjunctions of the two Supe<g ref="char:EOLhyphen"/>riours in <hi>Leo,</hi> did pre-note, as is demonstrable according to Starry Dialect, <hi>&amp;c.</hi> Thus moves the dreadful Wheels of the Astral Orbs, whirling themselves round by a most swift Motion, to fix the reeling Spirits of the People, and settle the loose Liberties of most Nations; more especially <hi>France, Germany, England, Scotland, Ireland, Turkey, Tartaria,</hi> &amp;c. <hi>Leo</hi> is the Ascendant of <hi>Rome, Scorpio</hi> of <hi>Turkey, Aries</hi> of <hi>England, Virgo</hi> of <hi>France, Taurus</hi> of <hi>Ireland: Saturn</hi> de<g ref="char:EOLhyphen"/>notes the Roman Clergy, and all their Seminaries of Learning; and <hi>Jupiter,</hi> the Orthodox Principles of the English Church. The Wise knows what I mean; and the Learned in the Coelestial Science, is able to discern a total Subversion of the Triple Crown, with the downfal of Popery, in a few Years: For the Stars in their course Fights against them, as they did against <hi>Sisera;</hi> for which see my <hi>Vates Astrologicus,</hi> Printed in 83. Also, in my 82's <hi>Almanack</hi> you will find these Verses:
+<q>
+                     <pb n="18" facs="tcp:39779:8"/>
+                     <l>Twice topping <hi>Rome,</hi> now, fears she must decline,</l>
+                     <l>Her Glory is departing; she doth shine</l>
+                     <l>But dimly; ere few Years we shall have proof,</l>
+                     <l>That she'll extinguish like a stinking snuff.</l>
+                  </q>
+               </p>
+               <p>And that I think, is as near coming to pass now, in this Kingdom of <hi>England,</hi> as the Men of <hi>Benjamin</hi> could throw a Stone, (and that was to an Hairs breadth;) notwithstanding all the Plots, Counter-plots, and Contrivances, of <hi>Romes</hi> Wicked, Black, Jugling Tribe, (those Prophane or Abominable Idolaters,) who are not Rulers for God, but Rulers against God, to their Power; also destructive to all that are good, and all that tends thereunto: For Religion, Laws and Liber<g ref="char:EOLhyphen"/>ties, must not so much as be nam'd to such, except their own; for all others, that pretends to any else, are Hereticks with them. Thus, you see, when a Rent is made in a Government, Religion, and its true Professors, are sure to suffer deeply. Examples of this within these few Years, in this Kingdom, and also at this present in <hi>France, Ireland,</hi> &amp;c. but, I hope, God will deliver them in his due Time, as he hath done us: For let the Papists know, it is not an easie Matter to change a whole Kingdoms Established Religion in a Moment; be<g ref="char:EOLhyphen"/>sides, the same God that delivered the <hi>Israelites</hi> out of the Hand of wicked <hi>Pharoah,</hi> and the <hi>Aegyptian</hi> Slavery, is also able to deliver the Protestants out of the Hands of the Late King <hi>James,</hi> and the <hi>Irish</hi> Rebels: And this let the <hi>Roman</hi> Catholicks know from me, ex<g ref="char:EOLhyphen"/>cept the Stars fail in their Influence, and God by his Word turn the Course of Nature (the which He is able to do in less than a moment) they will never set their Feet on <hi>English</hi> Ground again. And tho the <hi>French</hi> King joyns with them, yet all is in vain; for on the 23d. of <hi>November,</hi> 1690. will be Celebrated a Famous Conjunction of the two Malevolents, <hi>viz. Saturn</hi> and <hi>Mars,</hi> in <hi>Scorpio,</hi> the <hi>French</hi> King's <hi>Horoscope:</hi> therefore, expect in a short time, the Power of <hi>France</hi> to be brought very low, and all their wicked Designs end in Confusion; for God at present tries him, to see what he will do; and therefore,
+<pb n="19" facs="tcp:39779:8"/> hath given the Devil the length of his Chain, that they might walk Hand in Hand together, filling his Heart full of Pride and Tyranny; being a lying Spirit in him, as he was in the Mouths of wicked <hi>Ahab</hi>'s Prophets, when they perswaded him to go up to <hi>Ramoth Gilead,</hi> and Prosper! And thus the Devil leads him on, till he hath done by him, as the Eagle doth by the Coco-Nut, sore with it a great heighth, and so lets it fall, and breaks the Shell, that she might the easier come at the Kernel. Let none admire what is here Written; for God re<g ref="char:EOLhyphen"/>gards bad Kings no more than silly Shepherds; for are they not cast in the same common Mould, as we are? Doth not their Spirits move with the same Springs and Wards, as ours do? And doth they not (as we do) Hear, and Smell, with the Organs of Na<g ref="char:EOLhyphen"/>ture, and Breathe in one Vital Air? If so, Mortal; and if Mortal, Subject to Accidents and Misfortunes, as we are: And, if I am not mistaken, <hi>France,</hi> at this time, is at Enmity with all the World; the <hi>Turk</hi> excepted, who is a common Enemy to all Christendom. Thus Men katch at any thing, when they are falling: Oh! what a Degree of Boldness, is <hi>France</hi> amounted to? But it will suddenly find an Alteration, to the Glory of God, and the Comfort of his People; because that Tyrant, who at present is Ruler thereof, hath trodden down all that is most Holy, and Acceptable in the sight of God, <hi>viz.</hi> the poor Protestants, even his own Subjects; when he ought to have been a Nursing Father, and Tender Governour; Ruling his People with Moderation and Affability, and not with Tyranny and Barba<g ref="char:EOLhyphen"/>rism; shewing ill Examples to his Neighbour Nations; especially, the Kingdom of <hi>England:</hi> But <hi>France,</hi> must expect to smart for it, in a short time: Also, the Bloody <hi>Irish;</hi> for how can they think, but God will punish them, and suffer great part of their Walls to be laid waste, for spilling the Blood of Innocent Babes, that sprawled aloft, upon the Souldiers Spears in 41? Can they think, that the shrieks of their Robbed, and Ravished Mothers, did not pierce the Skies? O! Ba<g ref="char:EOLhyphen"/>barous and Wicked Men! Can they expect otherwise, than to drink deep of the Cup of Affliction; for they are threatned with Famine, or at leastwise, a great want of Provision; besides, Wars and Pe<g ref="char:EOLhyphen"/>stilential Diseases. Thus the Eternal Stars, so fiercely rowling over us with all the Circulation of the Heavenly Orbs, looks as if they
+<pb n="20" facs="tcp:39779:9"/> had a pattent to take an Account of every Man's Actions in this low<g ref="char:EOLhyphen"/>er World; for as they were established, from before all Ages, to be for Signs and for Seasons, for Days and for Years; so will they con<g ref="char:EOLhyphen"/>tinue their Influence over Mortals, to the end of Time, and never rest till the Universal Peace extends her Wing; the which, must not be expected, whilst we have our Natural being; but I hope we shall see the Golden Age return, where every Man is Master of his own, and live at Peace in a Free patent Government. Thus when King and People do agree, and live secure, all Rankor, Malice, and Ambition will Ex<g ref="char:EOLhyphen"/>tinguish, and Princes and Nobles be Reverenced, true Vertue and Learning be highly esteemed, Religion and Laws be practised in their Right Forms, and Principals, and the Kingdom flourish; yet the Ene<g ref="char:EOLhyphen"/>my will push hard at her: Thus Men strive to leap at Fate, and hurl their Fortune head-long at the Stars: Such is Man's misguided Orb of Ambition, every one strives to be as great as <hi>Caesar!</hi> But let them behold the Game that laughing Fortune plays, who dooms them to either Axe, or Halter; and tells them, by the Stars, they may as well stop the Eternal Sun, and drive him back, as think of entring. Therefore I shall conclude with Saint <hi>Paul; Si Deus nobiseum, quis contra nos?</hi> If God be for us, who can be against us? And the great God direct our Superiours, in the Management of those weighty Affairs that are before them; Preserve their most Sacred Majesties, and give them the Hearts of their People, that every Soul may be Subject to the Higher Powers: And this is the Hearty wish of him, who is a Loyal Subject to their Majesties, and his Countries Friend.</p>
+            </div>
+            <div type="part">
+               <head>Remarks upon King <hi>William</hi>'s Access to the Throne, and of his speedy Conquest of <hi>France.</hi> With a Treatise, of the Two Superiors, for the Four ensuing Years.</head>
+               <p>SInce the great God of Justice, hath been so Graciously pleased, to admit a Monarch to the Throne of <hi>England,</hi> whose Prudence and Courage (no doubt) will soon allay the hot Spirits of <hi>Antichrist,</hi> and moderate a stubborn and dissaffected People, fearing not to Unsheath his Sword, against the fiercest Dragon in Nature; but, like a Second St. <hi>George,</hi> will venture Life and Fortune, to preserve his
+<pb n="21" facs="tcp:39779:9"/> People, whom God hath committed to his Charge and Care; and we need not doubt, but (in the end) will come off like an Imperial Conqueror, to the Honour, and Glory of the great Creator, his own Renown, and the happy Tranquility of a flourishing Nation, and that to the final Extirpation of <hi>Popery,</hi> and <hi>Arbitrary Government,</hi> in <hi>Great Britain</hi> (Besides, I dare almost be positive, he will in a short time, enter the great <hi>Metropolis</hi> of <hi>France,</hi> conquer proud <hi>Lewis,</hi> and trample him under (with all his Pride and Tyranny) as little <hi>David</hi> did great <hi>Goliah,</hi> whom he slew with a Sling-stone, for defying the Hosts of the living God; and it's my stedfast belief, that the Omnipotent Creator (in Mercy looking down upon these sinful Na<g ref="char:EOLhyphen"/>tions) sent him amongst us, as a second <hi>Moses,</hi> to stand in the Gap, and deliver these Four Kingdoms out of the Hands of <hi>Tyrants,</hi> who, like hungry and enraged Lyons, with open Jaws, would eagerly have swallowed up.) How then, ought the People of these King<g ref="char:EOLhyphen"/>doms by the good Examples of the Holy Saints, who are gone into Everlasting Rest, to Honour and Glorifie the Lord their Maker, and sing forth his Praise both Night and Day, with loud Acclama<g ref="char:EOLhyphen"/>tions of Spiritual Songs, lifting up their Hands and Hearts to the Throne of God, for all these Mercies received in so wonderful, and unheard of a Preservation? And in so doing, no doubt, but he will give them a double portion of his Blessings hereafter.</p>
+               <p>One Word or Two have I to say, concerning the double <hi>Trine</hi> of <hi>Saturn</hi> and <hi>Jupiter,</hi> which fell <hi>July</hi> the 7th. 89. from <hi>Libra</hi> and <hi>Aqua<g ref="char:EOLhyphen"/>rius;</hi> and <hi>March</hi> the 7th. 89/90. from <hi>Scorpio</hi> and <hi>Pisces;</hi> also, of the Triple Oppositions of the said Two Superiors, which happens <hi>June</hi> the 12th. 1692. in Six Degrees of <hi>Gemini</hi> and <hi>Sagittarius; December</hi> the 3d. 1693. in Fourteen Degrees of <hi>Gemini</hi> and <hi>Sagittarius;</hi> and <hi>April</hi> the 22d. 1694. in Two Degrees of <hi>Gemini</hi> and <hi>Sagittarius. London,</hi> thou wilt dearly pay for these Oppositions; therefore look to it, for the People will expect to have Justice done them.</p>
+               <p>I dislike nothing in these Trines, but <hi>Saturn</hi>'s passing the place of <hi>Mars,</hi> and the Cusp of the Twelefth House in their middle Con<g ref="char:EOLhyphen"/>junction: <hi>Scorpio</hi> is a Treacherous Sign; Mens Fancies are not yet
+<pb n="22" facs="tcp:39779:10"/> settled: Here is still striving one against another; yet we have a glimpse of a better Satisfaction among our selves, and things begin to appear more plain to the Eye, and we begin to Smile, though we have no strong Confidence of being quite cured of our Di<g ref="char:EOLhyphen"/>stempers; for there many times appears a Wolf in Sheeps Clothing; and the Puppy of an old Fox, knows how to betray and cozen those which are Innocent, <hi>&amp;c.</hi>
+               </p>
+               <p>O <hi>London! London!</hi> In the Years 92, 93, and 94. (as I said be<g ref="char:EOLhyphen"/>fore) <hi>Saturn</hi> and <hi>Jupiter</hi> make no less than Three Oppositions from <hi>Gemini</hi> and <hi>Sagittarius,</hi> the Signs of the First and Seventh, in their middle Conjunction; there's Transversion of Figure in the Hea<g ref="char:EOLhyphen"/>vens, so is all Unity and Friendship amongst the Princes of <hi>Hungary, Spain, Flanders, Brabant, Dalmatia, Moravia, Arabia;</hi> the happy <hi>Sardinia, Arminia, Hircania, Mesina, Celtica;</hi> the Duke<g ref="char:EOLhyphen"/>dom of <hi>Wertenberge,</hi> &amp;c. quite dissolved: And what hath been obscured, ever since 78. 79, 80, 81, 82, 83, 84, 85, and 86. now plainly appears by a large <hi>Manifesto,</hi> to all the World; and now the <hi>European</hi> Princes begin to perceive by whom, and whose means, the Troubles of this present Age were fomented, but with no due Satis<g ref="char:EOLhyphen"/>faction, but still a Prospect of Confusion; for the Retrogadation of <hi>Saturn</hi> and <hi>Jupiter,</hi> in the middle Opposition, makes me mindful to perswade every one to bear a little, for another War, for new Com<g ref="char:EOLhyphen"/>bustions are threatned; very great Matters are now in Agitation, all over <hi>Europe, In Oppositione duorum Superiorum strages fiunt.</hi> Reg. Lib. 1. Aph. 80.</p>
+               <p>During the Influence of an Opposition, of the Two Superiour Planets, there happens cruel Slaughters of Men, or Mankind, the Ruine of many Families, and decay of Ancient Foundations, or Buildings; therefore, it was Judiciously observed by <hi>Cardan,</hi> When thou shalt at any time, perceive an Opposition or Conjunction of the Two Superior Planets, to be either in the Fiery, or Airy Triplicity, be not hasty in delivering thy Judgment thereupon; or, when thou hast taken time, and doest pronounce it, beware thou do not men<g ref="char:EOLhyphen"/>tion, or Predict unto the World any frivolous, or mean Contingen<g ref="char:EOLhyphen"/>cies, to be signified thereby: For I would have thee well to under<g ref="char:EOLhyphen"/>stand,
+<pb n="23" facs="tcp:39779:10"/> that these Two Triplicities are preheminent, and in Significa<g ref="char:EOLhyphen"/>tion far exceeds the other Two; for thou must know, Things or Accidents, signified by the Fiery Trigon, excel in Greatness, Height and Glory, those Matters which in time are derived, <hi>&amp;c.</hi> For the Influence of the Superiours, in an Airy Triplicity, have Re<g ref="char:EOLhyphen"/>spect to profundity of Wit, sound Councels, deep Policies in Laws, Ordinances, Statutes, and such Things, as the unwearied Disposition, or Mind of Man contemplates on: Therefore, from the Effects of these Oppositions, we must expect to hear of strange and uncouth Alterations, from the East and West parts of the World; especially, <hi>Spain, Dalmatia, Hungary, Flanders, Brabant, Arminia, London,</hi> the <hi>East</hi> and <hi>West-Indies,</hi> and all Places which are under <hi>Gemini,</hi> and <hi>Sagittarius,</hi> are much herein concerned; for Opposite Aspects, or Configurations of the Planets, seem to Presage no less, than much Contention and Division to break out amongst us; for it hath been observed, <hi>Eo in Anno, nulla quies, cum Jupiter &amp; Saturnus sunt in Oppo<g ref="char:EOLhyphen"/>sitione, nunquam enim Mentes Hominum quiescunt,</hi> &amp;c. In that Year there is no rest or quietness in the Minds of Men, when <hi>Saturn</hi> and <hi>Jupiter</hi> are in Opposition; for the Minds of Men at that time will never be quiet; therefore, this Opposition is the Messenger, or Fore<g ref="char:EOLhyphen"/>teller of great Fights, and the Death or Slaughter of a number of Men, in the forementioned Places: God deliver us from a Plague! It likewise denotes the lamentable departure out of this World, of some Principle Men and Women; also portends a Dissolution of very antient Leagues, <hi>Nam a Jove Amicitiae, faedera, Religiosi,</hi> &amp;c. <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> having a strong Signification herein, we Predict from him great Alteration, or Controversie, about Religion, Leagues, Friendship, Civil Affairs, and further Contracts betwixt Nation and Nation, or Common-wealths. We shall also find many underhand and pernitious Transactions, agitated by the several Agents, Messengers or Embas<g ref="char:EOLhyphen"/>sadours of <hi>Europe;</hi> and, in all probability, we may observe some secret Plot to break out, soon after this Opposition; for here is nothing but Contrivance of Mischief one against another, as it was in <hi>October,</hi> 1678. when that worthy Gentleman, Sir <hi>Edmund-Bury Godfrey</hi> was Murder'd; at which time, there was a platick Square between <hi>Saturn</hi>
+                  <pb n="24" facs="tcp:39779:11"/> and <hi>Jupiter,</hi> from <hi>Gemini</hi> and <hi>Pisces:</hi> Oh, what Contrivances was there, then, against our Metropolitan City? and suddenly after, the Plot broke out to purpose; for in the <hi>April</hi> following, there was a Sextile between <hi>Saturn</hi> and <hi>Jupiter,</hi> in <hi>Aries</hi> and <hi>Gemini:</hi> Oh! that happy Transit of <hi>Jupiter,</hi> through <hi>Aries, England</hi>'s Sign, that discovered all their Villanies, and frustrated their Evil, and Devillish Designs: Therefore, if such grand Alterations did happen upon the platick Square of <hi>Saturn</hi> and <hi>Jupiter:</hi> What must we expect from this their Tripple Opposition, <hi>&amp;c.</hi> But, if I mistake, or fail in these my Progno<g ref="char:EOLhyphen"/>sticks; perhaps, the all-seeing Eye of God hath reserved the Ho<g ref="char:EOLhyphen"/>nour for some more deserving Person than I am; therefore blinds my Senses, or else permits me not to see, or foretel, what these Heavenly Messengers are the Fore-runners of.</p>
+            </div>
+            <div type="part">
+               <head>The Planets Attributes, according to the Doctrine of <hi>Hermes,</hi> or the <hi>Hermetick-Philosophy.</hi>
+               </head>
+               <p>AND now, Courteous Reader, let me tell thee, He says nothing in Phylosophical Matters, that proves nothing; and he proves nothing, that doth not so demonstrate it, that you cannot contradict it. Therefore, I cease to perswade, and begin to demonstrate; cease to believe, and begin to know; cease to dispute, and begin to spe<g ref="char:EOLhyphen"/>culate; for that <hi>Aristotellical</hi> maxim, <hi>Discipulum oportet credere,</hi> A Learner must believe, is as Tyrannical, as Dangerous; therefore, let no Man be compell'd to Swear to his Masters Words, but let the things them<g ref="char:EOLhyphen"/>selves constrain the Intellect; nor let a Master have any more credit given him, than he can demonstrate, <hi>&amp;c.</hi> Then let <hi>Ʋrania</hi> be pro<g ref="char:EOLhyphen"/>pitious to me, in this great Mystery; to declare a Work of Truth, and Permanency, concerning the Philosophical part of the Astral Science; also the Four Elements.</p>
+               <pb n="25" facs="tcp:39779:11"/>
+               <p>There are Four Elements, and Original Grounds of all Corporal things, <hi>(viz.)</hi> Fire, Earth, Air, and Water, of which all Elemen<g ref="char:EOLhyphen"/>tated inferiour Bodies are compounded, not by way of heaping them up together, but by Transmutation, and Union; and when they are destroyed, they are dissolved into Elements that is pure; but they are more or less mixt, and apt to be changed one into the other; even as Earth becomes Dirty, and being dissolved, becomes Water; and the same being made thick and hard, becomes Earth again; (even so amongst the Coelestial Bodies, <hi>Venus</hi> being in Con<g ref="char:EOLhyphen"/>junction, Aspect, or Parallel with <hi>Saturn,</hi> participates of his Nature, and is wholly an Infortune; but being separated, acts by the power of her own Nature: It is an Aphorism of <hi>Bethem</hi>'s, A Fortune, with an Infortune, strengthens the Infortune, but abates the worth of his own.) Now, Earth being evaporated through heat, passeth into Air, and that being kindled, passeth into Fire; and this being ex<g ref="char:EOLhyphen"/>tinguished, returns back again into Air; but being cooled again af<g ref="char:EOLhyphen"/>ter its burning, becomes Earth, or Stone, or Sulphur; and this is manifested by Lightning: And it is the Opinion of the best Philoso<g ref="char:EOLhyphen"/>phers, or the more subtler sort of them, That Earth is not changed, but relented and mixed with other Elements which do dissolve it, and that it returns back into it self again: Now every one of the Elements hath two special qualities; the former whereof, it retains as proper to it self; in the other, as a mean, it agrees with that which comes next after it; so are the Stars by their tracing through the Signs, and touching each others Body, or Aspects; and that ac<g ref="char:EOLhyphen"/>cording to their Natures; as we know fire to be hot and dry; the Earth cold and dry; the Water cold and moist; the Air hot and moist: And thus you see, that after this manner, the Elements, ac<g ref="char:EOLhyphen"/>cording to contrary qualities, are contrary one to the other; as Fire to Water, and Earth to Air. Moreover, the Elements, are upon another Account, opposite one to the other; for some are heavy, as Earth and Water; and others are light, as Air and Fire; the two first being Passive, and the latter Active. Besides, every one of them are distinguished after another manner, and have assigned to each of them three qualities, <hi>viz.</hi> to the <hi>Fire,</hi> Brightness, Thinness,
+<pb n="26" facs="tcp:39779:12"/> and Motion; but to the Earth, Darkness, Thickness, and Quiet<g ref="char:EOLhyphen"/>ness. Now, according to these qualities, the Elements of Fire and Earth are contrary; so is <hi>Saturn</hi> and <hi>Sol;</hi> but the other Elements borrow their qualities from these, so that the Air receives two quali<g ref="char:EOLhyphen"/>ties of the Fire, Thinness and Motion; and one of the Earth, <hi>viz.</hi> Darkness: In like manner, Water receives two qualities of the Earth, as Darkness and Thickness, and one of the Fire, <hi>viz.</hi> Motion; but Fire is twice more Thinner than Air, thrice more Movable, and four times more Bright: And the Air is twice more Bright, thrice more Thin, and four times more Moveable than Water: Wherefore, Water is twice more Bright, thrice more Thin, and four times more moveable than Earth; therefore, as the Fire is to the Air, so is the Air to the Water, and the Water to the Earth: And again, as the Earth is to the Water, so is the Water to the Air, and the Air to the Fire. Now, this is the Root and Foundation of all Bo<g ref="char:EOLhyphen"/>dies, Natures, Vertues, and wonderful Works; and he which shall know these qualities of the Elements, and their intermixions, shall easily bring to pass such things that are wonderfull and astonishing, and shall also be perfect in Starry Dialect; being capable to read the Language of the Stars, and distinctly know their Voices. Now, this is quite out of the Common Astrologers way, for it appears as a new Doctrine to them, tho' it's the old and plain; for ask them the Reason, why the Sun is Exalted in <hi>Aries,</hi> or the Moon in <hi>Taurus?</hi> and why <hi>Saturn</hi> was not Exalted there, he being the first Planet, and <hi>Aries</hi> the first Sign? and why <hi>Mercury</hi> should have such a priviledge above all the other Pla<g ref="char:EOLhyphen"/>nets, as to have an Exaltation and house in one and the same sign? and why the Sun could not have that preheminence, he being the Light and Glory of the World? and why <hi>Jupiter</hi> could have no bet<g ref="char:EOLhyphen"/>ter place to be Exalted in, than <hi>Cancer,</hi> and <hi>Mars</hi> in <hi>Capricorn,</hi> and so of the rest? <hi>&amp;c.</hi> O say they, The Sun is Exalted in <hi>Aries,</hi> because he is the Fountain of Light and Life; and when he comes into <hi>Aries,</hi> he produceth a new life to all Creatures and Vegetables, on this side the Equator: But, by their Worships leave, they might for all that rea<g ref="char:EOLhyphen"/>son have attributed <hi>Libra</hi> for his Exaltation also; for when he comes on that side the Equator, <hi>viz.</hi> the South side, he makes a new Vege<g ref="char:EOLhyphen"/>tation
+<pb n="27" facs="tcp:39779:12"/> there likewise, and yet they attribute his Fall to that place; so that that Argument will not hold water, it carrying no weight with it; for if the new products of Vegetation be from the Suns Exaltion, he must by the same Argument have two Exaltations; and then his Exaltation here in <hi>Aries</hi> is not Universal, but in our Climates. When this fails, then say they, The Planets have Dignities in such and such parts of the Heavens; because there are Stars of their own Nature; and so by consequence must be the Dignities of those Planets of that nature with themselves. Now, this is quite con<g ref="char:EOLhyphen"/>trary to the Doctrine of <hi>Hermes</hi> and <hi>Ptolomy,</hi> whom these Gentle<g ref="char:EOLhyphen"/>men boast of as their Leaders; when in truth they understand nothing of their Sayings, but cleave to the Customs of the World, and forsake Truth: Which said Learned Authors in their Attri<g ref="char:EOLhyphen"/>butes, did not go about to Teach only the Art of Judicial Astro<g ref="char:EOLhyphen"/>logy; but (in them, although darkly) the very Secrets of Philo<g ref="char:EOLhyphen"/>sophy, in the three Worlds; namely, in the Coelestial, Animal, and Vegetable Kingdoms; to which we might add the Mineral Kingdom also; and how in each, the Great God JEHOVAH hath set forth His Divine Works of Creation, Production, and Multiplication: For there is no part in these Three Kingdoms, but the Great God (who was the Creator of all Things) hath declared Himself therein; nay, in the very Insects, Reptiles, and the smal<g ref="char:EOLhyphen"/>lest of Individuals! Therefore the true Knowledge of these Things consists in the true understanding of the Coelestial World; which when <hi>Hermes</hi> and <hi>Ptolomy</hi> had understood, they found and knew, That <hi>Sol</hi> was no ways to be Exalted but by <hi>Mars;</hi> and that it must be done likewise in his Fiery Cell; and that pale-Fac'd <hi>Luna,</hi> by entering into a Friendly Conjunction with Amorous and San<g ref="char:EOLhyphen"/>guine <hi>Venus,</hi> and by Lodging in her Bed, near <hi>Sol</hi>'s Chamber, be<g ref="char:EOLhyphen"/>came equal to <hi>Sol</hi> himself; and that <hi>Caput Draconis</hi> with <hi>Mercury,</hi> remaining in the Airy Region, did produce a Fountain for <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> to wash off his Defilements, and become clean, to keep Court with Royal <hi>Sol</hi> in the <hi>Lyon;</hi> and that <hi>Mercury</hi> duplicate in <hi>Virgo,</hi> in his House and Exaltation, hath power to overcome all the rest of the Planets; that being the Hellespont, that even <hi>Sol</hi> himself,
+<pb n="28" facs="tcp:39779:13"/> and all the rest of the Planets, must pass through, before they can enjoy their Princely Thrones. And Thou, whosoever thou art, that canst have admittance to this Coelestial Virgin, Court her with<g ref="char:EOLhyphen"/>out delay, and she will unfold to thee Great Mysteries! For she is a Virgin, yet old; she was Born before her Mother, and brought forth her own Father; she holdeth in her Hands the Coelestial Scales, where <hi>Saturn</hi> is made King, by the permission of Blood-stirring <hi>Ve<g ref="char:EOLhyphen"/>nus;</hi> who afterwards brings in <hi>Mars</hi> to the like Honour with him<g ref="char:EOLhyphen"/>self. That is, when <hi>Mars</hi> is become a Servant to <hi>Saturn,</hi> and has likewise entered into an Everlasting Friendship with him, that they may Live and Die together. Also, <hi>Venus</hi> shall have a Crown of pure Gold set upon her Head, when she will take good Counsel of Grave <hi>Jupiter,</hi> and hearken to his Precepts: Then shall the Coele<g ref="char:EOLhyphen"/>stial <hi>Ram</hi> Fight with the Coelestial <hi>Bull,</hi> until they both die with the Effusion of their Blood, which is a Twin: This by the Divine Power is Circulated, 'till it becomes an Ocean, in which the Lyon doth Swim, and the Virgin doth Bathe her self: Here Equity, or the Ballance, are the Stairs to descend into this Fountain; where the <hi>Scorpion</hi> is washed from his Poyson by the <hi>Archer,</hi> and the raging He Goat's Horns are broken; this is the Conduit from whence the <hi>Tankard-Bearer</hi> gets his Water to Boyl his Fishes in, by the First Power which <hi>Sol</hi> is Exalted, <hi>(viz.)</hi> in <hi>Aries.</hi> I have given this Inigmatical Discourse, which I know will be Carpt at; but let such know, it's past their Understanding! Therefore have I done it, to shew how lame and deficient their Judgments are in the Astral Sci<g ref="char:EOLhyphen"/>ence; yet impudently pretend to understand those dark Mysteries, and at the same time cannot see through the Light of Nature; but, <hi>Gypsie</hi>-like, Tongue-Pad Ignorant and Credulous People out of their Moneys, <hi>&amp;c.</hi> It may be, some will expect I should here, in plain Words, unfold all this Mystery; but let such know, as from Nights Womb the Glorious Day breaks forth, and seems to kindle from the setting Stars; so are all things kept within the bounds and measure of Order: And thus I leave it as a Whet to the Ingenious, that they may Redeem their lost time, as a Meteor wades through the Abyss of Light.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:39779:13"/>
+               <head>The Judgment of the <hi>Sybils,</hi> in Confirmation of this Book.</head>
+               <argument>
+                  <p>At the Conclusion of my Book, I think it not amiss to Instance the Famous <hi>Sybils;</hi> who are not only in great esteem for Poetesses, but Pro<g ref="char:EOLhyphen"/>phetesses: Therefore, I think it will be convenient (in this place) to give a brief Account of them, as it has been handed down by past Ages to the present, and Translated, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <hi>ISidorus</hi> saith, The Word <hi>Sybil</hi> is a Name of Place and Office, de<g ref="char:EOLhyphen"/>rived of <hi>Syos,</hi> which signifies a <hi>Deity,</hi> and <hi>Beele:</hi> But for the Number of these <hi>Sybils,</hi> the Ancient Writers differ; For <hi>Aelianus</hi> will have but Four, <hi>(viz.) Aerithraea, Samia, Egyptica,</hi> and <hi>Sardi<g ref="char:EOLhyphen"/>nia.</hi> Now <hi>Aretina</hi> agrees with <hi>Isidorus</hi> in the Etymology of the Word, but he numbers Ten, and ascribes them these following Names and Places; <hi>(viz.) Persia, Lybia, Delphica,</hi> as Born at <hi>Del<g ref="char:EOLhyphen"/>phos, Omeria</hi> of <hi>Italy, Erithraea</hi> of <hi>Babylon, Samia, Cuma, Hellespon<g ref="char:EOLhyphen"/>tica, Phrygia,</hi> and <hi>Alburnea. Cumae</hi> was she that brought Books to <hi>Tarquinius Priscus,</hi> which spake of the Roman Succession: And how strangly soever these were Inspired, they fore-told wonderful Truths; and, as the Ancients affirm, expos'd their Prophecies in Verse: But, for Brevities sake, I shall only mention those that were fulfill'd in the Conception and Birth of the Blessed Messias, <hi>&amp;c.</hi>
+               </p>
+               <p n="1">1. <hi>Sybilia Persica,</hi> Born in <hi>Persia,</hi> and held more Ancient than the rest; who having express'd the most material things, relating to the several Ages of the World, 'till the Year of our Blessed Saviours In<g ref="char:EOLhyphen"/>carnation, thus Speaks:
+<q>
+                     <pb n="30" facs="tcp:39779:14"/>
+                     <l>In which Year, of a Virgin shall be Born</l>
+                     <l>The Prince of Peace, Crown'd with a Wreath of Thorn:</l>
+                     <l>Him, the Seventh Age shall follow, and extend</l>
+                     <l>'Till the Worlds Frame dissolve, and Time see end.</l>
+                  </q>
+               </p>
+               <p n="2">2. <hi>Sybilia Libia,</hi> by some call'd <hi>Phaemoroe,</hi> was held to be the Daughter of <hi>Apollo,</hi> Sir-nam'd <hi>Prima;</hi> and is Imputed by some, the first Inventer of Heroick Verse; and of our Blessed Saviour thus held to Prophecy:
+<q>
+                     <l>A King, a Priest, a Prophet; all these Three</l>
+                     <l>Shall meet in one Sacred Divinity;</l>
+                     <l>Shall be to Flesh Espous'd; Oh! Who can scan</l>
+                     <l>This Mystery? Ʋniting God with Man.</l>
+                     <l>When this rare Birth into the World shall come,</l>
+                     <l>He, the great God of Oracles strikes Dumb.</l>
+                  </q>
+               </p>
+               <p>Nor may it be amiss to set down how exactly the two last Lines were fulfill'd; for the very Day wherein our Blessed Saviour was Born, one asked a Response of the <hi>Oracle,</hi> and had this Answer:
+<q>
+                     <l>Me Purus Haebreus, Superum Rex linquere Tecta</l>
+                     <l>Haec Jubet, &amp; Coecas Noctis remeare sub umbras;</l>
+                     <l>Ergo, silus Aris, tu nunc discendito Nostris.</l>
+                  </q>
+               </p>
+               <p>And may be English'd thus:
+<q>
+                     <l>A Hebrew Child, King of the Heavens High,</l>
+                     <l>To leave these Altars has commanded me</l>
+                     <l>To Nights dark Shadows, and to final Woe;</l>
+                     <l>Thou therefore silent from our Altars go.</l>
+                  </q>
+               </p>
+               <p>And since that time it is observ'd, they remained Mute.</p>
+               <p n="3">
+                  <pb n="31" facs="tcp:39779:14"/>3. <hi>Sybilia Delphica,</hi> was by some call'd <hi>Daphne,</hi> and said to be Daughter to <hi>Tyresias;</hi> She having fore-told the Wars of <hi>Troy,</hi> pro<g ref="char:EOLhyphen"/>ceeds to speak thus of our Blessed Saviour:
+<q>
+                     <l>An Angel shall descend, and say; Thou Blessed <hi>Mary,</hi> Hail!</l>
+                     <l>Thou shalt Conceive, bring Forth, yet be a Virgin without fail:</l>
+                     <l>Three Gifts the <hi>Chaldeans</hi> to thy Son, shall tender with much Piety,</l>
+                     <l>Myrrhe to a Man, Gold to a King, and Incense to a Deity.</l>
+                  </q>
+               </p>
+               <p n="4">4. <hi>Sybilia Cumaea,</hi> also call'd <hi>Cimmonia,</hi> is held to have been one of the Priestesses to <hi>Apollo,</hi> Born in <hi>Cuma,</hi> a City of <hi>Aetolia,</hi> and speaks thus, in Relation to our Blessed Saviour:
+<q>
+                     <l>The Ancient of Days, shall then submit to Time;</l>
+                     <l>The Maker yield himself to new Creation;</l>
+                     <l>The Deity and God-head most sublime,</l>
+                     <l>Take Shape of Man, to ransom every Nation.</l>
+                     <l>Die to make others Live, and every Crime</l>
+                     <l>Committed from the round Worlds first Foundation,</l>
+                     <l>Take on Himself, as low as Hell descending,</l>
+                     <l>To win Man, Heaven upon His Grace depending.</l>
+                  </q>
+               </p>
+               <p n="5">5. <hi>Sybilia Samia,</hi> otherwise called <hi>Europhile,</hi> took the Name of <hi>Sama,</hi> from the Isle of <hi>Samos,</hi> the place of her Birth: Her Pre<g ref="char:EOLhyphen"/>dictions were these:
+<q>
+                     <l>The World shall to six Thousand Years expire;</l>
+                     <l>By Water once, but then destroy'd by Fire.</l>
+                     <l>The first Two Thousand void; the next the Law;</l>
+                     <l>The last Two under the <hi>Messias</hi> Awe.</l>
+                     <l>And as Repose by <hi>Sabbath</hi> is exprest,</l>
+                     <l>Sun, Moon, and Stars, all Things shall then have Rest.</l>
+                  </q>
+               </p>
+               <p n="6">6. <hi>Sybilia Cumana,</hi> by some called <hi>Amalthaea,</hi> having Prophesied of the great Revolutions and Successions of the Monarchies of the
+<pb n="32" facs="tcp:39779:15"/> World, speaking of the Glories of <hi>Rome,</hi> she comes to her Pre<g ref="char:EOLhyphen"/>dictions of our Blessed Saviour:
+<q>
+                     <l>Great <hi>Rome</hi> shall then look high;</l>
+                     <l>Whose proud Towers, from their Hills shall brave the Skie,</l>
+                     <l>And over-look the World; In these blest Days</l>
+                     <l>Shall come a King of Kings; and He shall raise</l>
+                     <l>A New Plantation, and though greater far</l>
+                     <l>In Majesty and Power; yet in that Day,</l>
+                     <l>So meek and humble, he shall daign to Pay</l>
+                     <l>Tribute to <hi>Caesar;</hi> yet thence happy he,</l>
+                     <l>Who shall his Servant, or his Subject be.</l>
+                  </q>
+               </p>
+               <p n="7">7. <hi>Sybilia Hellespontica,</hi> was otherwise called <hi>Marrinensis;</hi> and, as some affirm, derived her self from <hi>Troy;</hi> Her Predictions are these:
+<q>
+                     <l>When <hi>Atlas</hi> Shoulders shall support a Star,</l>
+                     <l>Whose ponderous Weight he never felt before;</l>
+                     <l>The Splendor of it shall direct from far,</l>
+                     <l>Kings, and the Wisest Men, a New Light to Adore.</l>
+                     <l>Peace in those Days shall Flourish, and stern War</l>
+                     <l>Be Banish'd Earth, Man-kind to restore.</l>
+                     <l>Then shall the <hi>Eastern Monarchs</hi> presents bring,</l>
+                     <l>To One, a Priest, a Prophet, and a King.</l>
+                  </q>
+               </p>
+               <p n="8">8. <hi>Sybilia Phrygia,</hi> as most are of Opinion, was no other than <hi>Cassandra,</hi> Daughter to <hi>Pryam,</hi> King of <hi>Troy,</hi> and <hi>Hecuba</hi> his Queen: She Fore-told the Destruction of <hi>Troy,</hi> but was never Cre<g ref="char:EOLhyphen"/>dited; but Speaking nothing of our Blessed Saviour, I shall pass by her Predictions, though they exactly came to pass.</p>
+               <p n="9">9. <hi>Sybilia Tyburnia,</hi> so call'd of the River <hi>Tyber,</hi> was otherwise called <hi>Alburnia,</hi> or <hi>Albania,</hi> from the City <hi>Alba,</hi> the place of her Birth: It is reported of her, That the <hi>Romans</hi> going about to Deifie <hi>Augustus Caesar,</hi> demanded her Advice; who after Three Days Fast<g ref="char:EOLhyphen"/>ing
+<pb n="25" facs="tcp:39779:15"/> before the Altar, where the Emperor was present; after many Mysterious Words miraculously spoke, concerning our Blessed Sa<g ref="char:EOLhyphen"/>viour, upon a suddain the Heavens seemed to open, and <hi>Caesar</hi> saw a Beautiful Virgin standing before the Altar, holding an Infant in her Arms, whereat affrighted, he Fell on his Face, and heard a Voice, saying, <hi>This is the Altar of the Son of God.</hi> In which place was Built a Temple afterwards, and Dedicated to the <hi>Virgin Mary;</hi> and it was call'd, The <hi>Altar of Heaven.</hi> This <hi>Polichronicon</hi> asserts, and quotes St. <hi>Augustine</hi> for his Author, <hi>Lib.</hi> 8. <hi>Cap.</hi> 24. Her Pre<g ref="char:EOLhyphen"/>didictions of our Saviour was these; (after she had recited divers Wonders of the World, which I willingly omit.)</p>
+               <q>
+                  <l>What at these Trifles stands the World amaz'd?</l>
+                  <l>And hath on them with Admiration gaz'd!</l>
+                  <l>Then wonder, when the Troubled to apease,</l>
+                  <l>He shall descend, who made Them, that made These!</l>
+               </q>
+               <p n="10">10. <hi>Sybilia Europica,</hi> was so call'd, for that her particular Region, or place of Birth was never known; nor is she accounted amongst the Ten, though Inserted here. Her Predictions were these:
+<q>
+                     <l>When the Great King of all the World shall have</l>
+                     <l>No place on Earth, by which He can be known;</l>
+                     <l>When He that comes, all Mortal Men to save,</l>
+                     <l>Shall find his own Life by the World o'rethrown:</l>
+                     <l>When the most Just, Injustice shall deprive;</l>
+                     <l>And the Great Judge, be Judged by his own:</l>
+                     <l>Death when to Death, a Death by Death hath given;</l>
+                     <l>Then shall be op't the long-shut Gates of Heaven.</l>
+                  </q>
+               </p>
+               <p n="11">11. <hi>Sybilia Aegypta,</hi> was likewise added to the Ten: she Prophe<g ref="char:EOLhyphen"/>sied on the Number Three; and having reckoned many things existent in that Nature, thus proceeds:
+<q>
+                     <l>But which of us, observed the Sacred Trine,</l>
+                     <l>Three Persons in one God-head, sole Divine?</l>
+                     <pb n="26" facs="tcp:39779:16"/>
+                     <l>That individual Essence, who dares scan,</l>
+                     <l>Which is, shall be, and e're the World began,</l>
+                     <l>Was in Eternity, when of these Three</l>
+                     <l>One of that most Inscrutable Trinity.</l>
+                     <l>The Second Person, Wisdom, shall Entomb</l>
+                     <l>All Majesties, within a Virgins Womb,</l>
+                     <l>True Man, true God, shall to that best Trine link;</l>
+                     <l>True Light shall shine, and false Stars be extinct.</l>
+                  </q>
+               </p>
+               <p n="12">12. <hi>Sybilia Aerithraea,</hi> was born in <hi>Babylon,</hi> and was Daughter to <hi>Berosius,</hi> the Famous Astrologer; she Prophesied of the <hi>Greeks,</hi> that came to the Siege of <hi>Troy;</hi> defined the Places whence they came, and how long the Siege would last; mentioning in her Book <hi>Homer,</hi> and how that he should Write of those Wars, partially, according to his Affection: And in this manner she Prophesied, of our blessed Sa<g ref="char:EOLhyphen"/>viour:
+<q>
+                     <l>The Time, by the great Oracle assign'd,</l>
+                     <l>When God himself, in pity to Mankind,</l>
+                     <l>Shall from the Heav'n descend, and be incarnate,</l>
+                     <l>Entering the World a Lamb imaculate;</l>
+                     <l>And of himself, in Wisdom thinks so meet,</l>
+                     <l>Walks on the Earth, with Three and Thirty Feet,</l>
+                     <l>And with Six Fingers; all his Subjects then,</l>
+                     <l>Though a King Mighty, shall be Fisher-Men;</l>
+                     <l>In number Twelve: With these, Wars shall be try'd,</l>
+                     <l>Against the Devil, the World, the Flesh, and Pride.</l>
+                     <l>Humility shall quell; the sharpest Sword,</l>
+                     <l>With which they fight, shall be the Sacred Word;</l>
+                     <l>Establish'd upon Earth, which Foundation</l>
+                     <l>Once laid, shall be divulg'd to every Nation.</l>
+                  </q>
+               </p>
+               <p>By the Words, <hi>Feet,</hi> and <hi>Fingers,</hi> are to be understood Years and Months.</p>
+               <p>And thus I conclude the <hi>Prophesies</hi> and <hi>Perdictions</hi> of <hi>Sybils:</hi>
+                  <pb n="27" facs="tcp:39779:16"/> Which, if truly theirs; and by their being delivered down through so many hands, have been neither added to nor diminished; it remains doubtful, whether it was in the power of any infernal Spirit to divulge such Sacred Truths, so long before they came to pass: Or, if it was, by this we may see, that the Devils them<g ref="char:EOLhyphen"/>selves, were constrain'd to fore-tell, what they fore-saw would be the Ruin and Destruction of their Kingdom of Darkness: But I rather think it was by Divine Inspiration, because the De<g ref="char:EOLhyphen"/>vil was a Lyar from the Beginning, therefore not able to tell the Truth; that being only the Office of the Coelestial Angels, who are the Messengers of God, appointed to reveal his Will and Pleasure, so soon as it is delivered unto them; for they them<g ref="char:EOLhyphen"/>selves know nothing of future Events, until they have received it from the great Creator.</p>
+            </div>
+         </div>
+         <div type="addendum">
+            <head>
+               <hi>Scutica Gadburiana:</hi> OR, A Whip for Gadbury.</head>
+            <p>
+               <hi>READER, Knowing that this small Tract may flie through most Parts of Christendom; I have therefore thought it convenient, to shew you some Reasons of me thus differing with that Neroean,</hi> Gadbury; <hi>that the World (hereafter) may count me blameless, and find him guilty of the fault.</hi>
+            </p>
+            <p>The ground (or foundation) of the Quarrel is this: In the Pre<g ref="char:EOLhyphen"/>face of his 88's <hi>Almanack</hi> (as I take it) without Consideration or Demonstration, he had the Impudence to write against Me and my Associate, Authors of the <hi>Marrow of Astrology;</hi> calling us a couple of <hi>Astrologers;</hi> and at the same time said, he believed the Art was scarcely got <hi>Cutis</hi> deep, which was a gross Affront to Men of Sense: But that's not all; for since Mr. <hi>Partridge</hi> and my absence out of <hi>London,</hi> he wrote a little Book, called a <hi>Reply,</hi> in
+<pb n="28" facs="tcp:39779:17"/> which pag. 25. he calls us a <hi>Ternary of Knaves</hi> and <hi>Imposters</hi> (viz.) Mr. <hi>Partridge, John Holwell,</hi> and my Self; <hi>And herein the Libeller</hi> (saith he, meaning Mr. <hi>Partridge) Echo's to a couple of English Miscreants,</hi> (which word, in English, signifies <hi>Infidels, Atheists,</hi> or <hi>Godless Fel<g ref="char:EOLhyphen"/>lowe,</hi> those that believe not in <hi>God) calling themselves Astrologers also; who have printed nearly the like treasonable Stuff, some years since, under pretence of Predictions,</hi> Vid. <hi>Holwels Catastrophe Mundi,</hi> page 61. and <hi>Kirby</hi>'s <hi>Astrological Prophet,</hi> p. 29. And in other places of his Works, he calls us a <hi>brace of Almanack-men; those common Plunderers of Ephemerides;</hi> says he, <hi>Where are they now?</hi> And abundance of worse Stuff, not to be bore with, especially by me. Thus far this Sodomite, <hi>Ahab</hi>'s false Prophet, after a scurri<g ref="char:EOLhyphen"/>lous manner, hath insolently abused us, and, Crochadile like, spew'd out his Poyson against us, who never wrong'd him by Thought, Word, or Deed: But who can expect any thing better from such a Fellow, who hath been of all Religions, and never stuck to any? I suppose, he thought we had finally absconded, or at least waies durst never more appear in Sight: But why need I to trouble my self about it? Did he not write against Mr. <hi>Lilly,</hi> in the worst of Language, after he had gave him the benefit of his Study for several years, besides the Imploying of him to make his Cloaths for some time? Yet for all this kindness, he could not forbear Ingratitude: And who can expect any other from a <hi>Scor<g ref="char:EOLhyphen"/>pionist,</hi> and <hi>Mars</hi> in <hi>Taurus,</hi> as this Gentleman himself hath very ingeniously inserted, in his <hi>Doctrine of Nativities,</hi> page 77 and 78? Where he writes of the Inclinations and Conditions of the Native, by the Planets in their own Houses; and in the Houses of each other, as they are Lords of a Nativity: <q>But if <hi>Mars,</hi> says he, shall be in <hi>Taurus</hi> or <hi>Libra,</hi> it shews the Native to be Luxurious, a a Fornicator, a Sodomite, and wickedly given to all abominable and filthy Actions; a Deluder of Women, and shall be deluded and deceived by them; shall Betroth some, under an Evil pre<g ref="char:EOLhyphen"/>tence; and by being so addicted, shall bring unto himself great Damage and Detriment:</q> Thus inserted by his own Hand, from <hi>Guido Bonatus.</hi> But from <hi>Alboaly,</hi> thus; <q>If <hi>Mars</hi> be found in <hi>Tau<g ref="char:EOLhyphen"/>rus,</hi>
+                  <pb n="29" facs="tcp:39779:17"/> as he is here in Mr. <hi>Gadbu</hi>— Nativity, (as he himself hath Calculated,) he signifieth a Traytor, given to Falshood, evil<g ref="char:EOLhyphen"/>minded; a Boaster and Fornicator.</q> And thus you see, how this Spark hath spoke of himself at unawares; and here is his Nativity from his own Calculation, in the said Book, page 254. which I leave to all Judicious Men, to Judge both of his Manners, Inclinations, and Dispositions:
+<figure>
+                  <figDesc>astrological chart</figDesc>
+                  <head>
+                     <hi>Decemb.</hi> 31st. d. 14. h. 26. m. <hi>P. M. Lat.</hi> 51. 42.</head>
+                  <p>The Author forgot the Year, which was 1627.</p>
+               </figure>
+            </p>
+            <p>But for their better Satisfaction, I shall display him in his proper Colours, in this following Matter.</p>
+            <p>And thus to my most endeared and loving Countrey-men (but more especially, to the Sons of <hi>Ʋrania,</hi> which are Students in the Siderial Sciences) do I present this small piece, wherein are some Reflections on a Prick-louse Astrologian, (<hi>alias, John Gadbury,</hi> the <hi>Scorpionist</hi>) who, upon a certain time (in his <hi>Annual Ephemeris</hi>) had the brazening Impudence to write (in his Preface) against the Au<g ref="char:EOLhyphen"/>thors of the <hi>Marrow of Astrology;</hi> saying, He believed the Art was scarcely got <hi>Cutis</hi> deep, (as I said before) when I am apt to believe,
+<pb n="30" facs="tcp:39779:18"/> at the same time, the Man was either Lunatick, in some strange Deli<g ref="char:EOLhyphen"/>reum, or at leastwise Planet struck; as the Impartial Reader (I doubt not) will certainly imagin, when he hath well examined this small Messenger, and weighed every Word in that most equal and just ballance of Reason, <hi>&amp;c.</hi>
+            </p>
+            <p>And now to undeceive the Genius and Laborious Astral Students, (especially, those that are Genethliacally given) the <hi>major</hi> part of the <hi>Marrow of Astrology</hi> was Translated from that learned Monk, <hi>Placidus, De titis Primum mobile,</hi> Printed at <hi>Patavia,</hi> in <hi>Italy;</hi> it being the very Method of the Prince of Phylosophers, <hi>viz.</hi> the great and learned <hi>Ptolomy;</hi> to whom (as it is Recorded in Doctor <hi>Dee</hi>'s Action of Spirits, Page 153.) an Angel appeared, and opened un<g ref="char:EOLhyphen"/>to him the unknown Parts of the Earth; but some he was command<g ref="char:EOLhyphen"/>ed to keep Secret, which was those under the North Pole; the Book being now in Print; the Original of which was found in Sir <hi>Thomas Cotton</hi>'s Library, at <hi>Westminster,</hi> and caused to be Printed by Doctor <hi>Causabone;</hi> in which Book you will find something of moment, con<g ref="char:EOLhyphen"/>cerning the Year 88. such as is worth the Readers searching after; the which, I here forbear to insert; but refer thee to the Book, <hi>&amp;c.</hi>
+            </p>
+            <p>And, as touching the <hi>Marrow of Astrology,</hi> you have in it the only method of Directions in the World, but handled very concisely; and is Exemplified with Twenty sundry eminent and remarkable Nativi<g ref="char:EOLhyphen"/>ties, and other useful Operations, pertinent for such a Work; the like every Vulgar <hi>Astrologer</hi> hath not had the happiness to meet with: It is also furnished with excellent Tables of Twi-Light, Semi-diur<g ref="char:EOLhyphen"/>nal, and Semi-nocturnal Arches, and Mundane Aspects; and, I dare aver, is more Infallible than <hi>John Gadbury</hi>'s wearing the Cross, or eating the Wafer; who (<hi>Esau</hi>-like) sold his Birth-right for a Mess of Pottage, as is visibly seen by this his Time-observing Method of Writing: For, instead of laying down the true Rules of Art, he hath Glaz'd it over all along with a little sorry Rhetorick, on purpose to amuse and perswade the Ignorant and Credulous! And thus the Devil prompt on this Slave, this Gypsie, this Fortune-Teller, with undigested Notions, filling his Heart as full of Pride, as his Brain of Chimaera's (not regarding, but) casting the true Rules of Art at his
+<pb n="31" facs="tcp:39779:18"/> Feet; not considering, that all things depends on Time and Motion, as is well defin'd by <hi>Placidus;</hi> also, by my most Respective Friends, Mr. <hi>Partridge,</hi> Mr. <hi>Bishop,</hi> and my Self, whose Method we all use: But this Idiot, this walking Shred, this vaunting, up<g ref="char:EOLhyphen"/>right Needle of a Taylor, hath followed the uncertain Steps of <hi>Argol</hi> and <hi>Regiomontanus;</hi> the best of which (nor none of their Followers) never understood the Rudiments of Art in all their Days: (And this I can prove, let whose will undertake to vindicate them;) but have, with their base Absurdities, Infatuated the Genius of those, which would have been good Proficients in so noble a Sci<g ref="char:EOLhyphen"/>ence; as this Scorpionist, and his Associates (<hi>Rome</hi>'s Dark Lying Elders) would have done us, concerning the Prince of <hi>Wales,</hi> and their Papistical Doctrine, (perswading us to bear more than the Asses Burden;) had not the First Mover, by His never-failing Motion and Providence, Delivered us in due time, By the Coming-in of a Thrice Happy Prince of <hi>Orange,</hi> now King of <hi>England;</hi> who ought to have a Never-dying Name Charactered in Letters of Gold, throughout all the Churches of <hi>Great Britain,</hi> &amp;c.</p>
+            <p>I once remember, I read a little Piece, Intituled, A just Reward for unreasonable Service, by <hi>Bentivolio Phylo-Hufflash;</hi> it being upon that <hi>Gadburian,</hi> Stigmatiz'd, False, Deceitful, Treacherous Sign, <hi>Scorpio,</hi> and done by a Learned Pen; the which, I don't doubt, but he the said <hi>Jack Gadbury</hi> hath oftentimes perused over, and that with a blushing Countenance, it wholly reflecting on the Horoscope of his Nativity, <hi>viz. Scorpio;</hi> the which one might have thought, would have check'd his Insolent Viperous Pen, for ever more scrawling Words of Envy or Impiety! But Impudence is like true Malice, it knoweth no bounds; and such are signified by <hi>Neroe</hi>'s Constellation, <hi>Scorpio;</hi> under the Influence of which, is <hi>Brick-Court Gadbury,</hi> the Limb-Trimmer; whom Future Ages will be bound to Curse, as <hi>Pe<g ref="char:EOLhyphen"/>terborough</hi> did the Priests; who had no sooner chose his Religion, but he was constrain'd to begin again; and, as far as I know, may, 'till the Day of his Dissolution. But, to return to my present Task in Hand, I dare adventure to give any Man an Hundred Guineas, that hath seriously Traced over <hi>Gadbury</hi>'s <hi>Collection of Genitures,</hi> and can
+<pb n="32" facs="tcp:39779:19"/> produce me one True Arch of Direction in the whole Work, done according to the Rules of Art: And for his Doctrine of Nativities, it is vain and insipid, the Tables being excepted, the Calculation of which is none of his; and for his erroneous 20 Years <hi>Ephemerides,</hi> it wholly belongs to <hi>Merrifield,</hi> whom he calls his <hi>Quondam Pupil;</hi> whom scarcely any Artist, living in <hi>London,</hi> will own him worthy his Society; yet, I think, as good an Astrologian, as Mr. <hi>Gadbury</hi> the Taylor, though not so well known to the World as he is, espe<g ref="char:EOLhyphen"/>cially amongst the Papal Crew; whose Hellish Inventions, Plots and Contrivances, makes even <hi>Lucifer</hi> himself stand amaz'd. Let both Wise and Ignorant People, but once look back, and re-count their mis-spent time which they have lost, in Addressing themselves to this Fine, Canting, Tongue-Pad Gypsie; and what false Re<g ref="char:EOLhyphen"/>ports, and little Satisfaction, they have received from him; and it will (even) make them sit down, and Weep with <hi>Heraclitus</hi> the Philosopher: For, as <hi>Aristotle</hi>'s Writings have much Learning and Ingenuity in them, so have his as much Obscurity and Falsity; which hath given occasion to many to enquire after, and suppose they see those Things which are no where in being! Then, What Man can think well of such a Fellow as this? That had a Commission to Dissemble; a Patent Hypocrite, that took Pay to Forge Lies by Law, and lives by the Sins of the People: For, how many Nativities hath he pretended to Calculate, and promised the Natives an Assurance of their Lives to 50, 60, 70, or 80 Years of Age; yet have they Died in their Minorities? And all this was for want of Studying God and Nature, and following the true Rules of Art; the which is laid down in <hi>Placidus,</hi> also in the <hi>Marrow of Astrology;</hi> being the same that Mr. <hi>Partridge</hi> did once offer to De<g ref="char:EOLhyphen"/>monstrate to the World: But this Idolater cry'd out, he was mad: And why do you think that was? Only, because he understood it not, neither was he capable of answering his Queries; but, like a Bell without a Clapper, gave no Sound: Besides, if you peruse o<g ref="char:EOLhyphen"/>ver his 89's <hi>Almanack,</hi> you will find Inserted there abundance of horrid Stuff, and what is worse, Impudence, enough almost to raise the Bodies of <hi>Ptolomy, Michael Nostrodamus,</hi> and <hi>Placidus,</hi> out of their
+<pb n="41" facs="tcp:39779:19"/> Graves, that they might joyn their Wits with <hi>Hudibras</hi> to bring the Stars to their Directions: For no Mortal Living can bring Directi<g ref="char:EOLhyphen"/>ons, Conjunctions, Aspects, Parallels, Transits, Eclipses, or Comets, to signifie or portend any such things in Mundane Affairs, as he hath there Predicted in his said <hi>Ephemeris;</hi> (but Parrat-like, talks of the Stars by Rote, yet knows not the Voice nor Language thereof) only speaks by Lot or Chance, or as he would have it; like Men at Gaming, every one that Plays would win, <hi>&amp;c.</hi>
+            </p>
+            <p>And now <hi>Gadbury!</hi> If thou art in thy right Senses, Read and Consider well your 89's <hi>Almanack,</hi> and more especially your <hi>Janu<g ref="char:EOLhyphen"/>ary</hi>'s and <hi>February</hi>'s Poems; the which I here Insert, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>Gadbury, <hi>In</hi> January, <hi>89.</hi>
+                  </l>
+                  <l>All Hail my Masters! <hi>Eighty Eight</hi> is gon,</l>
+                  <l>That Year of Wonders which the World so fear'd;</l>
+                  <l>Yet hath produc'd for us to Anchor on,</l>
+                  <l>A Prince of <hi>Wales,</hi> the Subject of each Bard!</l>
+                  <l>And that thou now art mine; Sweet Babe forgive!</l>
+                  <l>I'll Sing thy Praises, and thy Vassal Live.</l>
+               </lg>
+               <lg>
+                  <l>Kirby, <hi>90.</hi>
+                  </l>
+                  <l>Begon thou Lying, Fond, Ambitious Brat,</l>
+                  <l>Young <hi>Pirkin</hi>'s Slave; and, his blind Prophet too:</l>
+                  <l>The Counsels Rod can reach thee, (think on that)</l>
+                  <l>And all, the bloody Papists plotting Crew.</l>
+               </lg>
+               <lg>
+                  <l>Gadbury, <hi>in</hi> February, <hi>89.</hi>
+                  </l>
+                  <l>Angels and Stars, adorned this Royal Birth,</l>
+                  <l>As if the Prince of Peace, breath'd Peace on Earth:</l>
+                  <l>May it to Warlike <hi>Britain,</hi> prove as he</l>
+                  <l>Did to the World (its Saviour to be)</l>
+                  <l>Gladding the drooping Souls, of Loyal Men,</l>
+                  <l>And Madmen, to their Wits, return agen.</l>
+               </lg>
+            </q>
+            <p>But I think (and am apt to believe that you will never return to yours, but instead of being <hi>Compos-mentis</hi> (as you say by <hi>Titus Oates</hi>) in <hi>July</hi>'s Observations, you will grow down right Mad; for, I dare say, you are as near it now, as eager Death is to a Malefactor, at the place of Execution, after the Cart is drawn away.</p>
+            <pb n="42" facs="tcp:39779:20"/>
+            <p>Then <hi>Kirby.</hi>
+            </p>
+            <q>
+               <l>All hail my Masters, the Year of Ninety's come.</l>
+               <l>And <hi>Mars</hi> in <hi>Taurus,</hi> Warlike Canons thunder;</l>
+               <l>Then, hence you learing, bald Pates, Priests of <hi>Rome,</hi>
+               </l>
+               <l>For we your Rebel <hi>Teagues,</hi> resolve to plunder, <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <p>And for the Vindication of the <hi>Astral Science,</hi> according to <hi>Placi<g ref="char:EOLhyphen"/>dus,</hi> which I now profess; I shall prove by several Examples, that all <hi>Gadbury</hi>'s Rules in the <hi>Genethliacal part of Astrology</hi> (which he hath ta<g ref="char:EOLhyphen"/>ken from <hi>Argol</hi> and <hi>Regiomontanus</hi>) are false and absurd, therefore I wholly explaud them; as instance, a certain Nativity, out of his great <hi>Delilah, viz.</hi> his Collection of <hi>Genitures,</hi> seriously perus'd and corrected, which take as followeth,</p>
+            <figure>
+               <figDesc>astrological chart</figDesc>
+               <head>
+                  <hi>Collectio Geniturarum,</hi> pag. 30.</head>
+               <p>
+                  <hi>Sebastianus Portugalia Rex, Natus, Anno.</hi> 1554. <hi>Jan.</hi> 19. 13 h. 46 m. <hi>P. M. sub Elev. Po.</hi> 40. d. 00 m.</p>
+               <p>☽ <hi>ad Vacuum.</hi>
+               </p>
+               <p>
+                  <table>
+                     <head>Lattitude Plan.</head>
+                     <row>
+                        <cell>♄</cell>
+                        <cell>1</cell>
+                        <cell>43</cell>
+                        <cell>
+                           <hi>S.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♃</cell>
+                        <cell>1</cell>
+                        <cell>44</cell>
+                        <cell>
+                           <hi>N.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♂</cell>
+                        <cell>0</cell>
+                        <cell>04</cell>
+                        <cell>
+                           <hi>S.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♀</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                        <cell>
+                           <hi>N.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>☿</cell>
+                        <cell>1</cell>
+                        <cell>48</cell>
+                        <cell>
+                           <hi>N.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>☽</cell>
+                        <cell>2</cell>
+                        <cell>51</cell>
+                        <cell>
+                           <hi>N.</hi>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Dec. —</head>
+                     <row>
+                        <cell>♄</cell>
+                        <cell>7</cell>
+                        <cell>47</cell>
+                     </row>
+                     <row>
+                        <cell>♃</cell>
+                        <cell>0</cell>
+                        <cell>08</cell>
+                     </row>
+                     <row>
+                        <cell>♂</cell>
+                        <cell>16</cell>
+                        <cell>42</cell>
+                     </row>
+                     <row>
+                        <cell>☉</cell>
+                        <cell>17</cell>
+                        <cell>56</cell>
+                     </row>
+                     <row>
+                        <cell>♀</cell>
+                        <cell>22</cell>
+                        <cell>02</cell>
+                     </row>
+                     <row>
+                        <cell>☿</cell>
+                        <cell>12</cell>
+                        <cell>40</cell>
+                     </row>
+                     <row>
+                        <cell>☽</cell>
+                        <cell>16</cell>
+                        <cell>12</cell>
+                     </row>
+                  </table>
+               </p>
+            </figure>
+            <p>This Native died a violent Death (saith <hi>Gadbury</hi>) at Twenty Four Years of Age; but, say I, at Twenty Four Years, Six Months, odd Days; the Reasons (according to <hi>Argol</hi>) for a violent Death
+<pb n="43" facs="tcp:39779:20"/> in this Prince's Nativity, as he affirms. are these. <hi>Mars cum Sole, in Signo Humano, cum Testimonia Mercurij, domini Octavae Occidentalis; Luna, in Oppositio Solis, Martis, &amp; Mercurij.</hi> (he might as well, saith <hi>Gadbury,</hi> have noted their casting a <hi>Square</hi> to the Ascendant also, chiefly the <hi>Moon</hi> and <hi>Mercury,</hi> &amp;c. But, I say, <hi>Gadbury</hi> (if he had understood it) might have added the <hi>Moons</hi> Parallel Declination to <hi>Mars,</hi> Lord of the 12th. being far more prevalent. For, <hi>Ptolomy</hi> saith, <hi>Mars</hi> evilly beholding the <hi>Sun,</hi> or <hi>Moon,</hi> in any Nativity from Hu<g ref="char:EOLhyphen"/>mane Signs, denotes Death to the Native, by intestine Broyls, or Ci<g ref="char:EOLhyphen"/>vil Commotions; or, that he shall be slain by the Hands of his Ene<g ref="char:EOLhyphen"/>mies; herein, <hi>Gadbury</hi> was in the Right, but at unawares, because, he did not apprehend <hi>Ptolomy,</hi> neither had the Sence to consider that the <hi>Moon</hi> was giver of Life, as here she is, but like an empty skull'd Coxcombe, has laid her aside, as useless. Moreover, accor<g ref="char:EOLhyphen"/>ding to his <hi>Argolian</hi> Method, he produces no Direction of Hers to kill, but ignorantly directs the Ascendant to the <hi>Quartile</hi> of <hi>Saturn</hi> to signifie Death, which Direction, according to the true <hi>Rules of Art,</hi> came up in the 7th. Year of his Age; The Work is thus,
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>D.</hi>
+                     </cell>
+                     <cell>
+                        <hi>M.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Oblique Asc. Saturn,</hi> under the Pole of Birth, is</cell>
+                     <cell>352</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Saturns, Seminocturnal Arch.</hi> 6 Hours, 29 Min. or</cell>
+                     <cell>97</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Which Subtracted, leaves</cell>
+                     <cell>255</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>From which, I Subtract the</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ob. Ascen.</hi> of the <hi>Horoscope,</hi> viz.</cell>
+                     <cell>248</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>And the Remainder, is the Ark of Direction</cell>
+                     <cell>006</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Which is to be equated.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now, as I said before in this Nativity, the <hi>Moon</hi> is giver of Life, and by her coming to the Parallel Declination of <hi>Saturn,</hi> from the 4th. House, was the Cause of his Death, by Her Direction she comes near the 21 Degree of <hi>Virgo,</hi> where she hath 4 d. 21 m. North La<g ref="char:EOLhyphen"/>titude; and there she meets with the Paralel Declination of <hi>Saturn,</hi> which is 7 d. 47 m.</p>
+            <pb n="44" facs="tcp:39779:21"/>
+            <p>The Work take as followeth,</p>
+            <p>The <hi>Moon</hi>'s Declination is 16d. 12m. to which, in the Zodiack, an<g ref="char:EOLhyphen"/>swers 15 d. 40 m. of <hi>Leo,</hi> whose <hi>Semidiurnal Arch</hi> (She be<g ref="char:EOLhyphen"/>ing above the Earth) is 104d. 15m. the third part whereof being 34d. 45 m. and is the space of one House.</p>
+            <p>Now, the Pole of the 9th. is near 16 deg. The <hi>Moon</hi>'s R.A. 147. d. 29.m. the difference between that, and the M. C. is 11 deg. 26.</p>
+            <p>Now to find the <hi>Moon</hi>'s Pole of Position, I do thus,</p>
+            <p>If 34 d. 45 (being the space of one House</p>
+            <p>Give 16 deg. the Pole of the 9th. House.</p>
+            <p>What shall 1126 the differ. betwixt the R. A. of the M.C. and the <hi>Moon</hi> R. A. give.</p>
+            <p>Which by the Rule of proportion, I find to be 5 d. 16m. the 16 m. I reject, and take only the 5 deg. which is the <hi>Moon</hi>'s Pole.</p>
+            <p>Now, because the <hi>Moon</hi> is in the descending part of Heaven, I take her opposite place under the Pole of 5 deg. and therein her oblique Ascension with contrary Latt. which is 328d. 56m. Now the Oblique Ascension of 21 d. of <hi>Pisces,</hi> with 4 d. 21 m. South Lat. is 354 d. 9 m. from which I Subtract the oblique Ascension of the <hi>Moon</hi>'s opposite place, and it leaves the Ark of Direction, 25 deg. 13 m. which being equated, points out the true time of Death.</p>
+            <p>Dear <hi>John,</hi> had I roome, I would have inserted <hi>Carolus Gustavvs,</hi> the King of <hi>Sweeden</hi>'s Nativity, Born <hi>Nov.</hi> the 7th. 14 hours 28 min. P.M. Lat. 59.d. in your own <hi>Coll. Gen.</hi> pag. 35. Who, as you say, the more pollitickly to bring his Designs about, Bribes a Quack in Astro<g ref="char:EOLhyphen"/>logy (as well hit <hi>Jack,</hi> as if thou hadst struck an Arrow through thy own Liver), with a Golden Chain, to predict him Victory and Success over his Enemies, from the Stars; which cursed Bribe, received by a Greedy, Hellish, Hypocritical Canter, (and no Astrologer) had no more Success than thy flattering Predictions for the Late King <hi>James,</hi> and your God-like Prince of <hi>Wales</hi> in the Year, 88.</p>
+            <p>Farther, you mention that the <hi>Sybils</hi> and Mother <hi>Shipton</hi> were con<g ref="char:EOLhyphen"/>jur'd out of their Graves to assist the <hi>Swedish</hi> King, and that he was promised to be made greater than <hi>Charles the Great,</hi> for the sake of
+<pb n="45" facs="tcp:39779:21"/> his Golden Chain; and that he was ordain'd to kick, and cuff, the Hogens of <hi>Holland,</hi> and make <hi>William</hi> of <hi>Brandenburgh</hi> repent in Sack<g ref="char:EOLhyphen"/>cloth and Ashes, and that he should beat the <hi>Dane</hi> out of his Coun<g ref="char:EOLhyphen"/>try, and write himself <hi>Rex Daniae;</hi> even so <hi>Jack</hi> didst thou pretend to raise the Devil and the Pope, to assist your Old deluded Master, the Late King <hi>James,</hi> against our great Deliverer the P. of <hi>Orange;</hi> 'Tis a Thousand pities that two such sycophanting pretended Astrolo<g ref="char:EOLhyphen"/>gians had not liv'd both in one time, that to save the World 3 d. (which was more than their Bodies were worth) they might have been hang'd together in one string.</p>
+            <p>Have a Care <hi>Jack,</hi> and take this for a Precaution; for thy Stars presage thee to have more to do with the Air than the Earth, and that in a little time too; but what shall we say, if a Man must be exalted above his Brethren, who can help it.</p>
+            <p>The Direction (thou sayst) that brought this King to the Crown was the M. C. to the Body of <hi>Jupiter,</hi> in the 23d. Year of his Age, and that which kill'd him was the 10th. House, to the Conjunction of <hi>Sa<g ref="char:EOLhyphen"/>turn;</hi> but how that could be, and the <hi>Moon</hi> giver of Life, I know not, nor thee neither; but to satisfie thee, in a little time, I will give you positive Directions for these, and correct all your <hi>Collection of Genitures,</hi> and shew wherein you err; In the mean while, I must a little extol my very good Friend Mr. <hi>Henry Coley,</hi> that Ingenious Matthemati<g ref="char:EOLhyphen"/>tian, who hath been a Laborious Student in the Siderial Sciences this many years, and hath given great Light to the Sons of Art, in his <hi>Clavis Astrologia,</hi> and other his Works, in demonstrating the substan<g ref="char:EOLhyphen"/>tial Rules of Trigonometry, so plain and facile, as he hath done, lay<g ref="char:EOLhyphen"/>ing open the 28 Cases of Spherical Triangles, so candidly, that the meanest of <hi>Ʋrania</hi>'s Darlings may easily learn to perform, and become a profound Artificer in Caelestial Serveying, and so I cease, as to that.</p>
+            <p>And now Doctor <hi>Jack,</hi> I think it necessary in this place to shew the Fallacy of the Papists pretended Transubstantiation, the which hope will be very satisfactory to all true Christians, and be never the worse excepted of, tho it comes from a Lay-Man; for Truth is Truth, and a Horse is a Horse (if I may so call it) No Ignorant Man's envy do I Care for, I have hitherto lived, and shall still, so
+<pb n="46" facs="tcp:39779:22"/> long as the Divine Providence is over me: And now to the Purpose.</p>
+            <p>To what end doth Man think, that God gave to all Creatures Five Senses, <hi>viz.</hi> Seeing, Hearing, Feeling, Smelling and Tasting; and more especially to him that calls himself Rational, <hi>viz.</hi> Man; but that it was to undeceive him, that he might discern a Distinction, between Ani<g ref="char:EOLhyphen"/>mals, Vegetables, and Minerals, also, the Elements; for by the Sight, we know one Animal, Vegetable, and Mineral, from another, <hi>viz.</hi> a Man from a Horse, a Dog from a Bear, a Snake from a Tode, Gold from Silver, Copper from Iron, and Tin from Lead; an Oak from an Alder, Ash from Elm, and Beech from Firr; Sage from Rose<g ref="char:EOLhyphen"/>mary, Time from Parsley, and Onions from Nettles; and lastly, Light from Dark; by feeling, we know Flesh from Bone, Fire from Water, one being Hot and Active, the other being Cold, Moist and Passive; also, we discern Earth from Air, one being Dry, Ponderous and Pas<g ref="char:EOLhyphen"/>sive, and the other being Hot, Moist, Vivifying and Active, by Hear<g ref="char:EOLhyphen"/>ing, we discern the difference of Sounds and Voices; by the Organs of Smelling, we know the difference of Scents; and by Tasting, we know Sweet from Bitter, and Sower from both; Bread from Flesh; Wine from Water, and Blood from all, <hi>&amp;c.</hi> Then, what Man is that dare presume to say, that a Weafer dipt in Wine, is the Body and Blood of Christ, true God and true Man, since the Senses themselves cannot be deceived, besides, Miracles are ceased, and he that can do this doth a Miracle, because it is above Nature: Shall the Sands seem to invite the Mountains? Or can the small Rivers enter<g ref="char:EOLhyphen"/>tain the unknown depths of the Sea? No; And why? Because it is impossible for the <hi>Minor</hi> to comprehend the <hi>Major:</hi> Therefore, let not Mortal Man think to do that which properly belongs to none, but the great Creator of all things; for, as all things were created and made by the Word of God, so shall the whole frame of Nature be changed, (or Transubstantiated (by the same God, and not by Man, who is Subject to Change and Chances himself: Not that I, or any Rational Man, under the Coelestial Canopy, can deny, but that our blessed <hi>Messias,</hi> did (at the Institution of his last Supper) give his own Body and Blood to be eat and drank by his Disciples; for by
+<pb n="47" facs="tcp:39779:22"/> His God-head, He had Power so to do; for <hi>He took the Bread and brake it; He took the Cup also, and He blessed it,</hi> saying, <hi>take eat, this is my Body; drink, this my Blood of the</hi> New Testament, <hi>which is shed for many, for the Remission of Sins; for except you eat my Body, and drink my Blood, you have no part with Me,</hi> as in some Translations it is verified; this he did, being yet alive, and not Cru<g ref="char:EOLhyphen"/>cified, and his Disciples did believe, because he had shewed them the possibility of his so doing before, in sundry Examples, <hi>First,</hi> at the Wedding, by changing the Water into Wine; <hi>Secondly,</hi> in feeding so many Thousands with Five Loves, and Two small Fishes; and so many Baskets full of Fragments were taken away, which was a great Augmentation; also, in raising the Bodies of the Dead; especially <hi>Lazarus,</hi> who had layn Four Days in the Grave, and in many other Examples which caused them to believe. And thus, as you believe him to be the Son of God, you must believe all things are possible unto him; for as God the Father (in the beginning) created and made all Things out of Nothing, <hi>viz.</hi> the Heavens, the Earth, the Sea, and all that in them is; out of the nearest part of that Nothing, he made the Soul of Man, which is a Secret shut up in the Holy Scrip<g ref="char:EOLhyphen"/>ture, not fit for the World to know (for I am sure it is as impossible for any Man to discover what the Soul of Man is, as to gather the Sun into his Bosom, or shew me the Image of a Voice, because the Natural Eye cannot discern it) He said, <hi>Come let us make Man, after our own Image;</hi> who did he then speak to, but His only Son, begotten before all Worlds, being equal with the Father, in Power and Sub<g ref="char:EOLhyphen"/>stance; for, as there is Father, Son, and Holy Ghost, in Trinity Three Persons, yet but One God, and Equal in Power and Substance (as be<g ref="char:EOLhyphen"/>fore) for as God the Father, in the beginning, took the Dust of the Earth, by way of plasmating, he foulded it together, and so made Man, then breathed the Breath of Life into his Nostrils, and so he be<g ref="char:EOLhyphen"/>came a living Soul; and the Dust (or Clay) at the same time, beco<g ref="char:EOLhyphen"/>ming Flesh, Blood, and Bone, it being so transubstantiated; Man then being the very <hi>Idea</hi> of the same Architect as fram'd him; (and that more especially, because of his Innocency;) and thus our blessed Saviour at his last Supper; being God as well as Man; by the Power of his God-Head, took the Bread by way of plasmating, breathed, or blessed
+<pb n="48" facs="tcp:39779:23"/> the Bread and Wine, and so transubstantiated it into Flesh and Blood,) <hi>viz.</hi> (his own Flesh and Blood) which was as possible for Him to do; as for God the Father, with the Son, to turn (or transubstantiate) the Dust, by his Word, into Man, which is Flesh, Blood, and Bone; yet I would have no Priest (Popish or other) presume, (or think so to do, tho he performe Christ's Office, because he is Man (only) and not God, and Sinful also: Now, if there be any Mortal amongst the whole Microcosme, can create one Member in Man if it be lost, I will believe it is possible for him to do the other, which is as far above the former, as the Sun excells the Light of a Candle in Glory, which is extinguisht with a small blast of Wind; yet in receiving of the Sacrament, we ought to Receive it as the Body and Blood of Christ, yet not Really, but Mystically, because the Senses cannot be deceived, as I said before; yet, he that Eateth this Bread, and Drink<g ref="char:EOLhyphen"/>eth of this Cup, Unworthily, Receiveth to himself Condemnation; because our Lord and Saviour said, <hi>So often as you eat of this Bread, and drink of this Cup, do it in Remembeance of me; for I will drink no more of the Fruit of the Vine, till I drink it New in my Fathers Kingdom:</hi> So much for Non-Transubstantiation, by the Powor of Humanity, <hi>&amp;c.</hi>
+            </p>
+            <p>And thus I have laid down these few certain and undeniable Ar<g ref="char:EOLhyphen"/>guments, which no Popish Recusant dare to oppose; Therefore, now <hi>Gadbury,</hi> speak for thy self, and don't stand like a Man dumb, and try if you can clear the Matter; the which, I think, you (nor none of your Jesuitical Tribe) are no more capable of doing, then I am able to stop the Course of the Sun, hinder the Influence of the Stars, or weigh the weight of the Fire in a Ballance; and that is as impossible for me to do, as 'tis for a Pismire to turn the Earth off of her Axis, or number the Sands of the Sea, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge <hi>11.</hi> Line <hi>11. after the Word</hi> Jupiter, <hi>add a Semicolon, which is mark<g ref="char:EOLhyphen"/>ed thus;</hi> p. <hi>14.</hi> l. <hi>8.</hi> f. <hi>7.</hi> r. <hi>6.</hi> p. <hi>20.</hi> l. <hi>8.</hi> for free Petent, r. free and potent. p. <hi>21.</hi> l. <hi>8.</hi> blot out. <hi>1693.</hi> l. <hi>29.</hi> f. <hi>1694.</hi> r. <hi>1693. and for 2</hi> Degrees, r. <hi>21.</hi> De<g ref="char:EOLhyphen"/>grees. p. <hi>22.</hi> l. <hi>8.</hi> blot out, and <hi>94.</hi> p. <hi>32.</hi> (which should be p. <hi>40.</hi>) l. <hi>34.</hi> blot out what is. <hi>Reader,</hi> There are many Litteral Faults, which I desire thee to mend, as thou traceth over the Book, occasioned by my absence from the Press.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39779:23"/>
+         </div>
+      </back>
+   </text>
+</TEI>
